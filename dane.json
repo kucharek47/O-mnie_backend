@@ -188,19 +188,19 @@
         "tytul": "SQLAlchemy",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/sqlalchemy.jpg"
       },
       {
         "tytul": "SQLite",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/SQLite.jpeg"
       },
       {
         "tytul": "Access",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Access.webp"
       }
     ]
   },
@@ -212,19 +212,19 @@
         "tytul": "Podlewanie",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/podlewanie.png"
       },
       {
         "tytul": "Radar",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Radar.webp"
       },
       {
         "tytul": "Mierniki Wody",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Mierniki Wody.webp"
       }
     ]
   },
@@ -236,31 +236,31 @@
         "tytul": "Zautomatyzwana szkółka borówki amerykanskiej",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/borówka amerykańska.jpg"
       },
       {
         "tytul": "Nauczyciel podstaw programowania",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Nauczyciel podstaw programowania.png"
       },
       {
-        "tytul": "Gastro",
+        "tytul": "Gastronomia",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/gastronomia.webp"
       },
       {
         "tytul": "Wystawca roślin ozdobnych i owocujacych",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Wystawca roślin ozdobnych i owocujacych.jpg"
       },
       {
         "tytul": "Sprzadwca na allegro",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Sprzadwca na allegro.jpg"
       }
     ]
   },
@@ -296,91 +296,91 @@
         "tytul": "Git",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/github.png"
       },
       {
         "tytul": "Pycharm",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Pycharm.jpeg"
       },
       {
         "tytul": "Webstorm",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Webstorm.jpeg"
       },
       {
         "tytul": "Paint",
         "opis": "XD",
         "url": "",
-        "path": ""
+        "path": "img/paint.jpg"
       },
       {
         "tytul": "VirualBox",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/VirualBox.jpg"
       },
       {
         "tytul": "Thonny",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Thonny.jpg"
       },
       {
         "tytul": "Word",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Word.webp"
       },
       {
         "tytul": "Excel",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Excel.webp"
       },
       {
         "tytul": "Access",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Access1.webp"
       },
       {
         "tytul": "Visio",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Visio.png"
       },
       {
         "tytul": "Adobe Photoshop",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Adobe Photoshop.webp"
       },
       {
         "tytul": "Davinci",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Davinci.webp"
       },
       {
         "tytul": "AutoCAD",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/AutoCAD.jpeg"
       },
       {
         "tytul": "CorelDraw",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/CorelDraw.png"
       },
       {
         "tytul": "Orange (AI)",
         "opis": "",
         "url": "",
-        "path": ""
+        "path": "img/Orange (AI).jpg"
       }
 
     ]
