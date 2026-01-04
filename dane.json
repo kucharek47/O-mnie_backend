@@ -185,33 +185,84 @@
     "path": "",
     "projekty": [
       {
-        "tytul": "",
+        "tytul": "SQLAlchemy",
         "opis": "",
         "url": "",
         "path": ""
-      }]
+      },
+      {
+        "tytul": "SQLite",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Access",
+        "opis": "",
+        "url": "",
+        "path": ""
+      }
+    ]
   },
   "Micro-python": {
     "info": "",
     "path": "",
     "projekty": [
       {
-        "tytul": "",
+        "tytul": "Podlewanie",
         "opis": "",
         "url": "",
         "path": ""
-      }]
+      },
+      {
+        "tytul": "Radar",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Mierniki Wody",
+        "opis": "",
+        "url": "",
+        "path": ""
+      }
+    ]
   },
   "Praca": {
     "info": "",
     "path": "",
     "projekty": [
       {
-        "tytul": "",
+        "tytul": "Zautomatyzwana szkółka borówki amerykanskiej",
         "opis": "",
         "url": "",
         "path": ""
-      }]
+      },
+      {
+        "tytul": "Nauczyciel podstaw programowania",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Gastro",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Wystawca roślin ozdobnych i owocujacych",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Sprzadwca na allegro",
+        "opis": "",
+        "url": "",
+        "path": ""
+      }
+    ]
   },
   "Zaintersowania": {
     "info": "",
@@ -237,15 +288,101 @@
       }
     ]
   },
-  "Programy": {
-    "info": "",
-    "path": "",
+  "Oprogramowanie Biurowe i Narzędzia": {
+    "info": "Są to programy w których czuję się w pełni swobodnie i korzystam z nich regularnie od wielu lat. Posiadam praktyczną wiedzę pozwalającą na sprawne tworzenie ^dokumentacji^, ^prezentacji^ oraz ^arkuszy kalkulacyjnych^. Narzędzia te stanowią dla mnie podstawę do organizowania pracy i przedstawiania jej wyników w czytelnej formie.",
+    "path": "img/programy.png",
     "projekty": [
       {
-        "tytul": "",
+        "tytul": "Git",
         "opis": "",
         "url": "",
         "path": ""
-      }]
+      },
+      {
+        "tytul": "Pycharm",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Webstorm",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Paint",
+        "opis": "XD",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "VirualBox",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Thonny",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Word",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Excel",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Access",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Visio",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Adobe Photoshop",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Davinci",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "AutoCAD",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "CorelDraw",
+        "opis": "",
+        "url": "",
+        "path": ""
+      },
+      {
+        "tytul": "Orange (AI)",
+        "opis": "",
+        "url": "",
+        "path": ""
+      }
+
+    ]
   }
 }
