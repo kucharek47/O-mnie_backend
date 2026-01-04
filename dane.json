@@ -132,21 +132,21 @@
     "projekty": [
       {
         "tytul": "Sportowa Szkoła Podstawowa nr 3 im. Józefa Jaworskiego w Aleksandrowie Łódzkim",
-        "opis": "",
+        "opis": "W trakcie nauki w tej szkole z powodzeniem łączyłem obowiązki edukacyjne z pasją do sportu, co zaowocowało zdobyciem licznych tytułów i wyróżnień. To właśnie wtedy wyrobiłem w sobie nawyk dyscypliny oraz ducha zdrowej rywalizacji, które dzisiaj pomagają mi w skutecznym realizowaniu celów zawodowych.",
         "url": "https://szkolasport.pl",
-        "path": ""
+        "path": "img/podstawowa.png"
       },
       {
         "tytul": "Zespół Szkół Zawodowych im. Stanisława Staszica",
-        "opis": "",
-        "url": "",
-        "path": ""
+        "opis": "Ukończyłem kierunek Technik Informatyk, co potwierdziłem zdanym egzaminem maturalnym oraz uzyskaniem kompletu kwalifikacji zawodowych. Szkoła ta zapewniła mi solidne fundamenty techniczne w zakresie sprzętu, sieci komputerowych oraz podstaw inżynierii oprogramowania.",
+        "url": "https://alestaszic.edu.pl/",
+        "path": "img/średnia.jpg"
       },
       {
         "tytul": "Społeczna Akademia Nauk w Łodzi",
-        "opis": "",
-        "url": "",
-        "path": ""
+        "opis": "Aktualnie studiuję na kierunku Informatyka, gdzie zdobywam fundamenty wiedzy technicznej i inżynierskiej. Wybrałem specjalizację Technologie Programowania, którą będę realizować w dalszym toku nauki, aby w przyszłości ukierunkować swój rozwój na tworzenie zaawansowanego oprogramowania.",
+        "url": "https://san.edu.pl/lodz",
+        "path": "img/wyższa.jpg"
       }
     ]
   },
