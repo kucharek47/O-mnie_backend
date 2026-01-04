@@ -1,6 +1,7 @@
 {
   "Angular": {
     "info": "Budując na solidnych fundamentach wieloletniej praktyki z ^HTML^, ^CSS^ i ^JavaScript^, ostatnie pół roku poświęciłem niemal w całości na intensywną naukę frameworka ^Angular^. Nadrabiam ten czas wielkim zapałem i ciężką pracą której efektem jest solidne zrozumienie ^struktury^, ^możliwości^, ^mechaniki działania^ i oczywiście praktyka. Samo zainteresowanie ^Angularem^ wywodzi się od ^TypeScript^. Na studiach zrozumiałem, że czysty ^JavaScript^ ma swoje ograniczenia a z uwagi na ^mocne typowanie^ którego domyślnie nie ma w ^Pythonie^ uznałem, że będzie to dobre uzupełnienie moich umiejętności. W dobie gdzie większość stron przechodzi na ^SPA^ uważam, że ^Angular^ jest nie tylko świetnym rozwiązaniem webowym ale też przyszłością samych aplikacji desktopowych.",    ",path": "img/angular.jpg",
+    "path": "img/angular.jpg",
     "projekty": [
       {
         "tytul": "Pizzeria",
