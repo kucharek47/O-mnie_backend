@@ -56,7 +56,7 @@
   },
   "Python": {
     "info": "",
-    "path": "",
+    "path": "img/Python.webp",
     "projekty": [
       {
         "tytul": "Video Intro Remover",
@@ -128,7 +128,7 @@
   },
   "Szkoły": {
     "info": "",
-    "path": "",
+    "path": "img/Szkoły.jpg",
     "projekty": [
       {
         "tytul": "Sportowa Szkoła Podstawowa nr 3 im. Józefa Jaworskiego w Aleksandrowie Łódzkim",
@@ -182,7 +182,7 @@
   },
   "Bazy danych": {
     "info": "",
-    "path": "",
+    "path": "img/Bazy danych.png",
     "projekty": [
       {
         "tytul": "SQLAlchemy",
@@ -206,7 +206,7 @@
   },
   "Micro-python": {
     "info": "",
-    "path": "",
+    "path": "img/Micro-python.webp",
     "projekty": [
       {
         "tytul": "Podlewanie",
@@ -230,7 +230,7 @@
   },
   "Praca": {
     "info": "",
-    "path": "",
+    "path": "img/Praca.webp",
     "projekty": [
       {
         "tytul": "Zautomatyzwana szkółka borówki amerykanskiej",
@@ -260,13 +260,13 @@
         "tytul": "Sprzadwca na allegro",
         "opis": "",
         "url": "",
-        "path": "img/Sprzadwca na allegro.jpg"
+        "path": "img/allegro.jpg"
       }
     ]
   },
-  "Zaintersowania": {
+  "Zainteresowania": {
     "info": "",
-    "path": "",
+    "path": "img/Zainteresowania.webp",
     "projekty": [
       {
         "tytul": "Programowanie",
