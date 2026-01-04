@@ -58,11 +58,72 @@
     "path": "",
     "projekty": [
       {
-        "tytul": "",
+        "tytul": "Video Intro Remover",
+        "opis": "Video Intro Remover to aplikacja desktopowa napisana w Pythonie i PyQt6, która automatyzuje usuwanie czołówek z plików wideo, wykorzystując wizję komputerową (OpenCV) do inteligentnego rozpoznawania fragmentów zamiast sztywnych reguł czasowych. Narzędzie oferuje wysoką wydajność dzięki akceleracji sprzętowej FFmpeg (NVENC) oraz umożliwia precyzyjne, wsadowe przetwarzanie całych katalogów filmów.",
+        "url": ["https://github.com/kucharek47/Usuwanie_czolowek"],
+        "path": "img/usuwanie_czolowki.png"
+      },
+      {
+        "tytul": "Tworzenie szkieletu struktury",
+        "opis": "Directory Structure Archiver to narzędzie w Pythonie, które tworzy lekką kopię struktury katalogów w formacie ZIP, zachowując hierarchię i nazwy plików, ale usuwając ich zawartość. Skrypt automatyzuje proces generowania pustych szablonów projektowych przy użyciu bibliotek os i zipfile, zapewniając wierne odwzorowanie drzewa folderów.",
+        "url": "https://github.com/kucharek47/Tworzenie_szkieletu_struktury",
+        "path": "img/zip.png"
+      },
+      {
+        "tytul": "Transkrypcja prosta",
+        "opis": "Transkrypcja Prosta to skrypt w języku Python, który automatyzuje proces zamiany mowy z plików wideo na tekst, wykorzystując API Google Speech Recognition. Narzędzie obsługuje przetwarzanie wsadowe oraz optymalizuje proces poprzez ekstrakcję audio i podział na segmenty czasowe przy użyciu bibliotek moviepy i pydub.",
+        "url": "https://github.com/kucharek47/Transkrypcja_Prosta",
+        "path": "img/transcription.png"
+      },
+      {
+        "tytul": "Angielski",
+        "opis": "Matura Vocab Booster to aplikacja edukacyjna w Pythonie, która automatycznie generuje bazy słownictwa bezpośrednio z arkuszy maturalnych CKE, wykorzystując BeautifulSoup4 i pdfplumber do ekstrakcji tekstu z plików PDF. System tłumaczy znalezione frazy, symulując interakcje z Google Translate za pomocą SeleniumBase, co pozwala ominąć koszty oficjalnych API. Całość zamknięta jest w interfejsie PyQt6, oferującym tryb nauki z elementami gamifikacji oraz asynchroniczne pobieranie danych w tle.",
+        "url": "https://github.com/kucharek47/Angielski",
+        "path": "img/angielski.png"
+      },
+      {
+        "tytul": "Podlewanie",
+        "opis": "ESP32 Irrigation Controller to autonomiczny system nawadniania oparty na MicroPythonie, który działa jako niezależny Access Point z interfejsem WWW do zarządzania harmonogramem zadań. Projekt wykorzystuje wielowątkowość (_thread) do równoległego sterowania przekaźnikami i obsługi serwera HTTP, zapewniając trwałość danych poprzez zapis konfiguracji w pliku JSON. Rozwiązanie demonstruje niskopoziomową implementację obsługi gniazd sieciowych oraz synchronizację czasu RTC na mikrokontrolerze.",
+        "url": "https://github.com/kucharek47/esp32_podlewanie",
+        "path": "img/podlewanie.png"
+      },
+      {
+        "tytul": "Pobieranie filmów i seriali",
+        "opis": "Automated VOD Downloader to zaawansowany system ETL w Pythonie, który automatyzuje proces pozyskiwania multimediów z serwisów VOD, łącząc Selenium do ekstrakcji linków z dynamicznych stron SPA oraz JDownloader 2 API do obsługi transferu plików. Aplikacja wykorzystuje architekturę hybrydową z wielowątkowością i wstrzykiwaniem JavaScript do omijania zabezpieczeń anty-botowych, a także implementuje autorskie heurystyki wyboru źródeł oraz mechanizmy \"self-healing\" zapewniające stabilność działania.",
+        "url": "https://github.com/kucharek47/Pobieranie-filmow-i-seriali",
+        "path": "img/pobieranie filmów i seriali.png"
+      },
+      {
+        "tytul": "Strona Kucharek47",
+        "opis": "Strona Kucharek47 to rozwojowy projekt portfolio typu SPA, łączący wydajność backendu Flask z nowoczesnym frontendem w Angular v21 i Taiga UI. Aplikacja implementuje unikalną koncepcję interaktywnej narracji, w której \"fałszywa\" strona ustępuje właściwej treści poprzez zaawansowane animacje 3D (efekt domina) i haptykę wizualną, oparte na SCSS i natywnym JavaScript. Projekt demonstruje nowoczesne podejście do architektury hybrydowej oraz optymalizacji złożonych efektów graficznych.",
+        "url": "https://github.com/kucharek47/strona_kucharek47pl_flask",
+        "path": "img/strona.png"
+      },
+      {
+        "tytul": "Wybieranie gier",
+        "opis": "Game Library Manager to estetyczny launcher gier napisany w Pythonie i PyQt6, który automatyzuje katalogowanie biblioteki poprzez skanowanie systemu plików i integrację z REST API RAWG w celu pobierania metadanych. Aplikacja wyróżnia się nowoczesnym interfejsem z animacjami 3D (efekt odwracania kart) oraz wykorzystaniem wielowątkowości (QThread) do asynchronicznego pobierania i cache'owania multimediów, zapewniając płynność działania interfejsu.",
+        "url": "https://github.com/kucharek47/Wybieranie_gier",
+        "path": "img/game library.png"
+      },
+      {
+        "tytul": "Bindy",
+        "opis": "Bindy Soundboard to narzędzie w Pythonie, łączące funkcje soundboardu z nakładką graficzną dla graczy, które umożliwia odtwarzanie dźwięków bezpośrednio na wejście mikrofonowe za pomocą kombinacji klawiszy numerycznych. Projekt wykorzystuje PyQt6 do wyświetlania transparentnego interfejsu oraz biblioteki PyAudio i OpenCV do obsługi wirtualnego audio i wizualnej detekcji zdarzeń w grze (np. licznik Spike w Valorant).",
+        "url": "https://github.com/kucharek47/Bindy",
+        "path": "img/bindy.png"
+      },
+      {
+        "tytul": "Analiza szachowa",
+        "opis": "Real-time Chess Assistant to narzędzie w Pythonie, które zapewnia analizę partii na Chess.com w czasie rzeczywistym, integrując Selenium do scrapowania ruchów z silnikiem szachowym Stockfish. Aplikacja przetwarza stan gry w oddzielnych wątkach, tłumaczy notację szachową na język naturalny i oferuje tryb \"stealth\" z obfuskacją wyników dla zachowania dyskrecji.",
+        "url": "https://github.com/kucharek47/Analiza_Szachowa",
+        "path": "img/chess.png"
+      },
+      {
+        "tytul": "Serwer VOD",
         "opis": "",
-        "url": [],
-        "path": ""
-      }]
+        "url": "https://github.com/kucharek47/serwer_VOD",
+        "path": "img/vod.png"
+      }
+    ]
   },
   "Szkoły": {
     "info": "",
