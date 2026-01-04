@@ -218,11 +218,24 @@
     "path": "",
     "projekty": [
       {
-        "tytul": "",
-        "opis": "",
+        "tytul": "Programowanie",
+        "opis": "Traktuję kodowanie jako pasję, która pozwala mi tworzyć praktyczne narzędzia – od zaawansowanej automatyzacji i aplikacji desktopowych po systemy IoT. Nieustannie poszukuję nowych wyzwań technologicznych, aby moje projekty nie tylko działały, ale w realny sposób ułatwiały codzienne zadania.",
         "url": "",
-        "path": ""
-      }]
+        "path": "img/programowanie.jpg"
+      },
+      {
+        "tytul": "Strzelectwo sportowe",
+        "opis": "Uprawiam strzelectwo, które jest dla mnie doskonałym treningiem opanowania, cierpliwości i precyzji. Dyscyplina ta uczy mnie zachowania pełnego skupienia i „zimnej krwi” w kluczowych momentach, co bezpośrednio przekłada się na moją efektywność w pracy zawodowej.",
+        "url": "",
+        "path": "img/strzelectwo.webp"
+      },
+      {
+        "tytul": "Aktywność fizyczna",
+        "opis": "Dbam o kondycję, łącząc dynamiczną akrobatykę na trampolinach z regularnym treningiem siłowym. Sport pozwala mi nie tylko rozwijać koordynację i wytrwałość, ale stanowi też idealną odskocznię od pracy umysłowej, zapewniając niezbędny balans i świeżość umysłu.",
+        "url": "",
+        "path": "img/aktywność fizyczna.jpeg"
+      }
+    ]
   },
   "Programy": {
     "info": "",
