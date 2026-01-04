@@ -131,11 +131,24 @@
     "path": "",
     "projekty": [
       {
-        "tytul": "",
+        "tytul": "Sportowa Szkoła Podstawowa nr 3 im. Józefa Jaworskiego w Aleksandrowie Łódzkim",
+        "opis": "",
+        "url": "https://szkolasport.pl",
+        "path": ""
+      },
+      {
+        "tytul": "Zespół Szkół Zawodowych im. Stanisława Staszica",
         "opis": "",
         "url": "",
         "path": ""
-      }]
+      },
+      {
+        "tytul": "Społeczna Akademia Nauk w Łodzi",
+        "opis": "",
+        "url": "",
+        "path": ""
+      }
+    ]
   },
   "Linux i mikro systemy": {
     "info": "Moje doswiadczenie z linuxem zaczelo sie w technikum informatycznym w ktorym oprocz tradycyjnych prac zrozumial co to jest linux i dlaczego jest tak poprulany, przez uznalem ze jest warty wiekszej ilosci czasu niz na studiach od czego czasu zrobilem gigantyczne podstepy i teraz juz poruszam sie po linux (terminal oczywscie) naturalnie i sfobodnie i rozumiem tez zadane dzialania tego",
