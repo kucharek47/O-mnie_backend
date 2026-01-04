@@ -44,10 +44,12 @@
       {
         "tytul": "O mnie",
         "opis": "Jest to projekt który stworzyłem aby zaprezentować swoje portfolio i prawdopodobnie właśnie go przeglądasz. Oprócz standardowych funkcjonalności skupiłem się na tym aby wygląd oraz ^UI^ i ^UX^ były estetyczne i poprawne. Zależało mi na czytelnym przedstawieniu moich dotychczasowych prac.",
-        "url": [
-          "Front"
-        ],
-        "path": ""
+        "url": {
+          "Front": "https://github.com/kucharek47/o-mnie",
+          "Backend": "https://github.com/kucharek47/O-mnie_backend",
+          "Efekt": "https://o-mnie.kucharek47.pl"
+        },
+        "path": "img/cv.png"
       }
     ]
   },
@@ -73,16 +75,35 @@
         "path": ""
       }]
   },
-  "Linux": {
-    "info": "",
-    "path": "",
+  "Linux i mikro systemy": {
+    "info": "Moje doswiadczenie z linuxem zaczelo sie w technikum informatycznym w ktorym oprocz tradycyjnych prac zrozumial co to jest linux i dlaczego jest tak poprulany, przez uznalem ze jest warty wiekszej ilosci czasu niz na studiach od czego czasu zrobilem gigantyczne podstepy i teraz juz poruszam sie po linux (terminal oczywscie) naturalnie i sfobodnie i rozumiem tez zadane dzialania tego",
+    "path": "img/linux.png",
     "projekty": [
       {
-        "tytul": "",
-        "opis": "",
+        "tytul": "Debian Bookworm Orange pi 5 pro headless",
+        "opis": "Wszystkie moje serwery, zarówno publiczne jak i prywatne, oparłem na własnej, skrupulatnie przygotowanej konfiguracji systemu ^Linux^. To na niej spoczywa zarządzanie całym moim środowiskiem, od skryptów cyklicznych po automatykę ^inteligentnego domu^ opartą o usługi ^systemctl^.Ten konkretny projekt był jednak największym wyzwaniem inżynierskim z jakim się mierzyłem ze względu na nietypową architekturę sprzętową urządzenia. Moja walka zaczęła się od oficjalnego obrazu ^.iso^ producenta który okazał się uszkodzony. Po kilkunastu godzinach analizy i naprawiania plików systemowych udało mi się doprowadzić go do stanu używalności, niestety system wciąż był zbyt niestabilny i ulegał częstym awariom. Wtedy podjąłem decyzję o porzuceniu gotowca na rzecz instalacji czystego systemu ^Debian Bookworm^. To otworzyło nowy rozdział problemów gdyż sprzęt nie posiadał większości sterowników, głównym problemem był sterownik do dysków ^NVMe^ przez brak możliwości bootowania z USB. Musiałem wykorzystać dedykowany adapter ^NVMe^ i ręcznie integrować sterowniki z systemem. Ta długa i wyboista droga nauczyła mnie więcej o strukturze ^Linuxa^, zarządzaniu pamięcią masową i mechanice działania usług niż jakikolwiek podręcznik.",
         "url": "",
-        "path": ""
-      }]
+        "path": "img/Debian_OPI.png"
+      },
+      {
+        "tytul": "Kali Linux",
+        "opis": "^Kali Linux^ jest pierwszą dystrybucją systemu ^Linux^ której zacząłem używać w znacznie szerszym zakresie niż tylko do prostych testów. System ten stał się moim głównym środowiskiem pracy na laptopie co pozwoliło mi na codzienne obcowanie z jego strukturą. Dzięki takiemu podejściu dogłębnie poznałem specyfikę tej dystrybucji i nauczyłem się rozwiązywać problemy wynikające z codziennego użytkowania systemu przeznaczonego specjalistycznie do testów bezpieczeństwa.",
+        "url": "",
+        "path": "img/kali.png"
+      },
+      {
+        "tytul": "ESP32-WROOM-32D",
+        "opis": "To była moja pierwsza płytka uruchomieniowa obsługiwana przez ^MicroPython^. Stanowiła ona mój punkt wejścia w świat programowania mikrokontrolerów przy użyciu języka który już znałem. Dzięki temu projektowi mogłem połączyć moją wiedzę programistyczną z elementami fizycznymi i elektroniką.",
+        "url": "",
+        "path": "img/esp32.png"
+      },
+      {
+        "tytul": "ESP32-S3",
+        "opis": "Płytka na której pracuje teraz",
+        "url": "",
+        "path": "img/esp32.png"
+      }
+    ]
   },
   "Bazy danych": {
     "info": "",
