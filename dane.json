@@ -10,13 +10,13 @@
         "path": "img/github.png"
       },
       {
-        "tytul": "Pycharm",
+        "tytul": "PyCharm",
         "opis": "Od bardzo dawna korzystam z ^PyCharm^ jako środowiska do programowania w Pythonie, a dzięki studiom mam obecnie dostęp do pełnej, płatnej wersji. Przez lata zapoznałem się dobrze z tym narzędziem, a liczne automatyzacje i specjalizacje środowiska pod Pythona czynią je niezastąpioną pomocą w efektywnym pisaniu kodu.",
         "url": "",
         "path": "img/Pycharm.jpeg"
       },
       {
-        "tytul": "Webstorm",
+        "tytul": "WebStorm",
         "opis": "Podobnie jak w przypadku ^PyCharm^, korzystam z ^WebStorm^, które dzięki dedykowanemu wsparciu dla Angulara i licznym automatyzacjom ułatwia konfigurację środowiska oraz przyspiesza rozwój projektów itp. Środowisko to stanowi dla mnie nieocenioną pomoc w programowaniu i optymalizacji pracy nad aplikacjami webowymi.",
         "url": "",
         "path": "img/Webstorm.jpeg"
@@ -58,7 +58,7 @@
         "path": "img/Adobe Photoshop.webp"
       },
       {
-        "tytul": "Davinci",
+        "tytul": "DaVinci",
         "opis": "Jestem doświadczonym użytkownikiem ^DaVinci Resolve^, korzystając głównie z funkcji podstawowych, ale w pełni doceniając potencjał programu do profesjonalnej edycji i postprodukcji wideo, co pozwala mi tworzyć atrakcyjne materiały wizualne wspierające projekty.",
         "url": "",
         "path": "img/Davinci.webp"
@@ -314,7 +314,7 @@
     ]
   },
   "Praca": {
-    "info": "Choć moje dotychczasowe doświadczenie zawodowe w IT ma obecnie charakter dodatkowy z uwagi na zajmowanie się przeważnie rozwijaniem własnych działalnościami, moje kompetencje techniczne są efektem wieloletniego, świadomego i systematycznego rozwoju wynikającego z ^realnej pasji do programowania^. Jestem przekonany, że przy otrzymaniu pierwszej pełnoprawnej szansy zawodowej szybko udowodnię swoją wartość jako pracownik, dzięki ^bardzo dużej zdolności adaptacji^, umiejętności szybkiego uczenia się oraz skutecznej metodzie zdobywania wiedzy, którą jako samouk konsekwentnie rozwijałem, testowałem i udoskonalałem w praktyce projektowej.",
+    "info": "Choć moje dotychczasowe doświadczenie zawodowe w IT ma obecnie charakter dodatkowy z uwagi na zajmowanie się głównie rozwijaniem własnych działalności, moje kompetencje techniczne są efektem wieloletniego, świadomego i systematycznego rozwoju wynikającego z ^realnej pasji do programowania^. Jestem przekonany, po otrzymaniu pierwszej pełnoprawnej szansy zawodowej szybko udowodnię swoją wartość jako pracownik, dzięki ^bardzo dużej zdolności adaptacji^, umiejętności szybkiego uczenia się oraz skutecznej metodzie zdobywania wiedzy, którą jako samouk konsekwentnie rozwijałem i udoskonalałem w praktyce projektowej.",
     "path": "img/Praca.webp",
     "projekty": [
       {
