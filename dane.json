@@ -1,11 +1,103 @@
 {
+  "Oprogramowanie Biurowe i Narzędzia": {
+    "info": "Są to programy w których czuję się w pełni swobodnie i korzystam z nich regularnie od wielu lat. Posiadam praktyczną wiedzę pozwalającą na sprawne tworzenie ^dokumentacji^, ^prezentacji^, ^arkuszy kalkulacyjnych^ oraz ^raportów^. Narzędzia te stanowią dla mnie podstawę do organizowania pracy i przedstawiania jej wyników w czytelnej formie.",
+    "path": "img/programy.png",
+    "projekty": [
+      {
+        "tytul": "Git",
+        "opis": "Doświadczenie z ^Git^ początkowo było ograniczone, prawdopodobnie ze względu na pracę na jednym komputerze, aż do czasów studiów, kiedy Git stał się moim codziennym narzędziem. Od razu doceniłem jego zalety, a analiza kodu w repozytoriach okazała się świetnym źródłem praktycznej wiedzy i wskazówek dotyczących optymalizacji. Obecnie nie wyobrażam sobie pracy bez Git, choć ze względu na krótki staż użytkowania większość moich projektów dodałem dopiero teraz w celach rekrutacyjnych.",
+        "url": "",
+        "path": "img/github.png"
+      },
+      {
+        "tytul": "Pycharm",
+        "opis": "Od bardzo dawna korzystam z ^PyCharm^ jako środowiska do programowania w Pythonie, a dzięki studiom mam obecnie dostęp do pełnej, płatnej wersji. Przez lata zapoznałem się dobrze z tym narzędziem, a liczne automatyzacje i specjalizacje środowiska pod Pythona czynią je niezastąpioną pomocą w efektywnym pisaniu kodu.",
+        "url": "",
+        "path": "img/Pycharm.jpeg"
+      },
+      {
+        "tytul": "Webstorm",
+        "opis": "Podobnie jak w przypadku ^PyCharm^, korzystam z ^WebStorm^, które dzięki dedykowanemu wsparciu dla Angulara i licznym automatyzacjom ułatwia konfigurację środowiska oraz przyspiesza rozwój projektów itp. Środowisko to stanowi dla mnie nieocenioną pomoc w programowaniu i optymalizacji pracy nad aplikacjami webowymi.",
+        "url": "",
+        "path": "img/Webstorm.jpeg"
+      },
+      {
+        "tytul": "VirualBox",
+        "opis": "^VirtualBox^ stanowi dla mnie podstawowe środowisko do testów systemowych i eksperymentów z oprogramowaniem. Wykorzystuję je do bezpiecznej analizy systemów, sprawdzania zachowania podejrzanych aplikacji oraz testowania konfiguracji sprzętowych i systemowych w izolowanym środowisku, bez ryzyka dla głównego systemu.",
+        "url": "",
+        "path": "img/VirualBox.jpg"
+      },
+      {
+        "tytul": "Thonny",
+        "opis": "Środowisko, które testowałem do pracy z ^MicroPython^, okazało się wyjątkowo stabilne i niezawodne, mimo braku funkcji automatyzacji. Sprawdza się szczególnie przy mikrokontrolerach ESP32, gdzie inne środowiska często prowadziły do niemożności wprowadzania zmian w kodzie lub zatrzymania działających programów.",
+        "url": "",
+        "path": "img/Thonny.jpg"
+      },
+      {
+        "tytul": "Word, Excel, PowerPoint",
+        "opis": "Dzięki doświadczeniu zdobytemu w technikum i na studiach mogę potwierdzić, że ^posiadam solidną znajomość tych narzędzi^.",
+        "url": "",
+        "path": "img/Word.webp"
+      },
+      {
+        "tytul": "Access",
+        "opis": "Jest to program, z którego korzystałem w technikum, jednak nie używałem go w późniejszym czasie. Znam ^podstawy Accessa^, natomiast przy realizacji projektów ^na razie^ potrzebuję wsparcia, aby rozwiązania były sensowne i poprawnie zaprojektowane.",
+        "url": "",
+        "path": "img/Access1.webp"
+      },
+      {
+        "tytul": "Visio",
+        "opis": "Podczas studiów zdobyłem doświadczenie w pracy z ^Microsoft Visio^, wykorzystując go do tworzenia przejrzystych diagramów, schematów procesów oraz wizualizacji technicznych wspierających projekty inżynierskie i programistyczne.",
+        "url": "",
+        "path": "img/Visio.png"
+      },
+      {
+        "tytul": "Adobe Photoshop",
+        "opis": "W trakcie studiów zdobyłem praktyczne umiejętności w pracy z ^Adobe Photoshop^, umożliwiające tworzenie i edycję grafik wspierających małe projekty i prototypy wizualne.",
+        "url": "",
+        "path": "img/Adobe Photoshop.webp"
+      },
+      {
+        "tytul": "Davinci",
+        "opis": "Jestem doświadczonym użytkownikiem ^DaVinci Resolve^, korzystając głównie z funkcji podstawowych, ale w pełni doceniając potencjał programu do profesjonalnej edycji i postprodukcji wideo, co pozwala mi tworzyć atrakcyjne materiały wizualne wspierające projekty.",
+        "url": "",
+        "path": "img/Davinci.webp"
+      },
+      {
+        "tytul": "AutoCAD",
+        "opis": "Poznałem ^AutoCAD^ podczas studiów, zdobywając podstawowe umiejętności w tworzeniu rysunków technicznych i projektów inżynierskich.",
+        "url": "",
+        "path": "img/autocad.webp"
+      },
+      {
+        "tytul": "Orange (AI)",
+        "opis": "Korzystałem z ^Orange (AI)^ do eksploracji danych i wdrażania podstawowych modeli uczenia maszynowego, co pozwoliło mi poznać procesy analizy danych i wizualizacji wyników.",
+        "url": "",
+        "path": "img/Orange (AI).jpg"
+      },
+      {
+        "tytul": "Paint",
+        "opis": "XD",
+        "url": "",
+        "path": "img/paint.jpg"
+      }
+    ]
+  },
   "Angular": {
     "info": "Budując na solidnych fundamentach wieloletniej praktyki z ^HTML^, ^CSS^ i ^JavaScript^, ostatnie pół roku poświęciłem niemal w całości na intensywną naukę frameworka ^Angular^. Nadrabiam ten czas wielkim zapałem i ciężką pracą której efektem jest solidne zrozumienie ^struktury^, ^możliwości^, ^mechaniki działania^ i oczywiście praktyka. Samo zainteresowanie ^Angularem^ wywodzi się od ^TypeScript^. Na studiach zrozumiałem, że czysty ^JavaScript^ ma swoje ograniczenia a z uwagi na ^mocne typowanie^ którego domyślnie nie ma w ^Pythonie^ uznałem, że będzie to dobre uzupełnienie moich umiejętności. W dobie gdzie większość stron przechodzi na ^SPA^ uważam, że ^Angular^ jest nie tylko świetnym rozwiązaniem webowym ale też przyszłością samych aplikacji desktopowych.",    ",path": "img/angular.jpg",
     "path": "img/angular.jpg",
     "projekty": [
       {
+        "tytul": "Pamietnik",
+        "opis": "Jest to rozbudowany projekt ^Full-Stack^ w którym połączyłem wydajność asynchronicznego frameworka ^FastAPI^ z nowoczesną architekturą front-endową ^Angulara^. W aplikacji wdrożyłem zaawansowane komponenty interfejsu z biblioteki ^Taiga UI^ dbając o wysoki standard User Experience. Projekt ten jest dowodem mojej biegłości w tworzeniu skalowalnych rozwiązań desktopowych oraz umiejętności płynnej integracji ekosystemu ^Python^ z nowoczesnym ^Angularem^ przy zachowaniu czystości i modularności kodu.",
+        "url": {
+          "Front i Backend": "https://github.com/kucharek47/Pamietnik2"
+        },
+        "path": "img/pamietnik.png"
+      },
+      {
         "tytul": "Pizzeria",
-        "opis": "Jest to mój największy dotychczasowy projekt zrealizowany w ^Angularze^. Pomimo że tematyka wydaje się dość prosta to zaimplementowałem tu kilka ciekawych rozwiązań takich jak ^interaktywne układanie własnej pizzy^. Był to mój pierwszy projekt na którym uczyłem się praktyki. Choć z obecną wiedzą zmieniłbym wiele rzeczy takich jak zastosowanie ^SCSS^ czy lepszy podział zadań na osobne ^komponenty^ i ^serwisy^ to uważam, że projekt ten doskonale pokazuje moje zaznajomienie się z ^Angularem^ oraz chęć ciągłego pogłębiania wiedzy w tym zakresie.",
+        "opis": "Jest to mój największy dotychczasowy projekt zrealizowany w ^Angularze^. Pomimo że tematyka wydaje się dość prosta to zaimplementowałem tu kilka ciekawych rozwiązań takich jak ^interaktywne układanie własnej pizzy^. Był to mój pierwszy projekt na którym uczyłem się praktyki. Choć z obecną wiedzą zmieniłbym wiele rzeczy takich jak zastosowanie ^SCSS^ czy lepszy podział zadań na osobne ^komponenty^ i ^serwisy^ jak i mniej hardcoded to uważam, że projekt ten doskonale pokazuje moje zaznajomienie się z ^Angularem^ oraz chęć ciągłego pogłębiania wiedzy w tym zakresie.",
         "url": {
           "Front": "https://github.com/kucharek47/Pizzeria_Angular",
           "Backend": "https://github.com/kucharek47/API_pizzeria",
@@ -35,14 +127,6 @@
         "path": "img/diamond.png"
       },
       {
-        "tytul": "Pamietnik",
-        "opis": "Jest to rozbudowany projekt ^Full-Stack^ w którym połączyłem wydajność asynchronicznego frameworka ^FastAPI^ z nowoczesną architekturą front-endową ^Angulara^. W aplikacji wdrożyłem zaawansowane komponenty interfejsu z biblioteki ^Taiga UI^ dbając o wysoki standard User Experience. Projekt ten jest dowodem mojej biegłości w tworzeniu skalowalnych rozwiązań desktopowych oraz umiejętności płynnej integracji ekosystemu ^Python^ z nowoczesnym ^Angularem^ przy zachowaniu czystości i modularności kodu.",
-        "url": {
-          "Front i Backend": "https://github.com/kucharek47/Pamietnik2"
-        },
-        "path": "img/pamietnik.png"
-      },
-      {
         "tytul": "O mnie",
         "opis": "Jest to projekt który stworzyłem aby zaprezentować swoje portfolio i prawdopodobnie właśnie go przeglądasz. Oprócz standardowych funkcjonalności skupiłem się na tym aby wygląd oraz ^UI^ i ^UX^ były estetyczne i poprawne. Zależało mi na czytelnym przedstawieniu moich dotychczasowych prac.",
         "url": {
@@ -55,33 +139,9 @@
     ]
   },
   "Python": {
-    "info": "",
+    "info": "Swoją przygodę z ^Pythonem^ rozpocząłem już na początku technikum informatycznego, zanim programowanie pojawiło się w oficjalnym planie zajęć. Świadomie podjąłem decyzję o ^samodzielnym rozwoju^, wybierając Pythona jako nowoczesny i wszechstronny język programowania szeroko wykorzystywany w branży IT. Przez kolejne lata systematycznie rozwijałem swoje umiejętności, realizując liczne projekty i pracując z rozbudowanym ekosystemem bibliotek. Z czasem osiągnąłem poziom, na którym nie tylko swobodnie tworzę własne rozwiązania, ale również ^dzielę się wiedzą i wspieram innych^ w nauce Pythona jeszcze przed zakończeniem edukacji szkolnej. Python jest dla mnie językiem, w którym czuję się ^w pełni naturalnie i profesjonalnie^. Doświadczenie obejmuje pracę z bibliotekami takimi jak OpenCV (cv2), Flask, FastAPI, NumPy, SQLAlchemy, Matplotlib, Requests, BeautifulSoup, Selenium, PyAutoGUI, Pynput, Pillow, MoviePy, PyPDF2, Pygame, PyQt, PyAudio, PyDub, Tkinter oraz innymi wykorzystywanymi w projektach backendowych, froncie, automatyzacyjnych, desktopowych, multimedialnych i mikro kontolerach.",
     "path": "img/Python.webp",
     "projekty": [
-      {
-        "tytul": "Video Intro Remover",
-        "opis": "Video Intro Remover to aplikacja desktopowa napisana w Pythonie i PyQt6, która automatyzuje usuwanie czołówek z plików wideo, wykorzystując wizję komputerową (OpenCV) do inteligentnego rozpoznawania fragmentów zamiast sztywnych reguł czasowych. Narzędzie oferuje wysoką wydajność dzięki akceleracji sprzętowej FFmpeg (NVENC) oraz umożliwia precyzyjne, wsadowe przetwarzanie całych katalogów filmów.",
-        "url": ["https://github.com/kucharek47/Usuwanie_czolowek"],
-        "path": "img/usuwanie_czolowki.png"
-      },
-      {
-        "tytul": "Tworzenie szkieletu struktury",
-        "opis": "Directory Structure Archiver to narzędzie w Pythonie, które tworzy lekką kopię struktury katalogów w formacie ZIP, zachowując hierarchię i nazwy plików, ale usuwając ich zawartość. Skrypt automatyzuje proces generowania pustych szablonów projektowych przy użyciu bibliotek os i zipfile, zapewniając wierne odwzorowanie drzewa folderów.",
-        "url": "https://github.com/kucharek47/Tworzenie_szkieletu_struktury",
-        "path": "img/zip.png"
-      },
-      {
-        "tytul": "Transkrypcja prosta",
-        "opis": "Transkrypcja Prosta to skrypt w języku Python, który automatyzuje proces zamiany mowy z plików wideo na tekst, wykorzystując API Google Speech Recognition. Narzędzie obsługuje przetwarzanie wsadowe oraz optymalizuje proces poprzez ekstrakcję audio i podział na segmenty czasowe przy użyciu bibliotek moviepy i pydub.",
-        "url": "https://github.com/kucharek47/Transkrypcja_Prosta",
-        "path": "img/transcription.png"
-      },
-      {
-        "tytul": "Angielski",
-        "opis": "Matura Vocab Booster to aplikacja edukacyjna w Pythonie, która automatycznie generuje bazy słownictwa bezpośrednio z arkuszy maturalnych CKE, wykorzystując BeautifulSoup4 i pdfplumber do ekstrakcji tekstu z plików PDF. System tłumaczy znalezione frazy, symulując interakcje z Google Translate za pomocą SeleniumBase, co pozwala ominąć koszty oficjalnych API. Całość zamknięta jest w interfejsie PyQt6, oferującym tryb nauki z elementami gamifikacji oraz asynchroniczne pobieranie danych w tle.",
-        "url": "https://github.com/kucharek47/Angielski",
-        "path": "img/angielski.png"
-      },
       {
         "tytul": "Podlewanie",
         "opis": "ESP32 Irrigation Controller to autonomiczny system nawadniania oparty na MicroPythonie, który działa jako niezależny Access Point z interfejsem WWW do zarządzania harmonogramem zadań. Projekt wykorzystuje wielowątkowość (_thread) do równoległego sterowania przekaźnikami i obsługi serwera HTTP, zapewniając trwałość danych poprzez zapis konfiguracji w pliku JSON. Rozwiązanie demonstruje niskopoziomową implementację obsługi gniazd sieciowych oraz synchronizację czasu RTC na mikrokontrolerze.",
@@ -90,9 +150,33 @@
       },
       {
         "tytul": "Pobieranie filmów i seriali",
-        "opis": "Automated VOD Downloader to zaawansowany system ETL w Pythonie, który automatyzuje proces pozyskiwania multimediów z serwisów VOD, łącząc Selenium do ekstrakcji linków z dynamicznych stron SPA oraz JDownloader 2 API do obsługi transferu plików. Aplikacja wykorzystuje architekturę hybrydową z wielowątkowością i wstrzykiwaniem JavaScript do omijania zabezpieczeń anty-botowych, a także implementuje autorskie heurystyki wyboru źródeł oraz mechanizmy \"self-healing\" zapewniające stabilność działania.",
+        "opis": "Automated VOD Downloader to zaawansowany system ETL w Pythonie, który automatyzuje proces pozyskiwania multimediów z serwisów VOD, łącząc Selenium do ekstrakcji linków z dynamicznych stron SPA oraz JDownloader 2 API wraz z autorskim skryptem (nie dodany) do obsługi transferu plików. Aplikacja wykorzystuje architekturę hybrydową z wielowątkowością i wstrzykiwaniem JavaScript do omijania zabezpieczeń anty-botowych, a także implementuje autorskie wyboru źródeł oraz mechanizmy zapewniające stabilność działania.",
         "url": "https://github.com/kucharek47/Pobieranie-filmow-i-seriali",
         "path": "img/pobieranie filmów i seriali.png"
+      },
+      {
+        "tytul": "Video Intro Remover",
+        "opis": "Video Intro Remover to aplikacja desktopowa napisana w Pythonie i PyQt6, która automatyzuje usuwanie czołówek z plików wideo, wykorzystując wizję komputerową (OpenCV) do inteligentnego rozpoznawania fragmentów zamiast sztywnych reguł czasowych. Narzędzie oferuje wysoką wydajność dzięki akceleracji sprzętowej FFmpeg (NVENC) oraz umożliwia precyzyjne jak i przyspieszenie cv2 kiedy porowywaniu obrazkow o podobnej jasnosc, wsadowe przetwarzanie całych katalogów filmów.",
+        "url": ["https://github.com/kucharek47/Usuwanie_czolowek"],
+        "path": "img/usuwanie_czolowki.png"
+      },
+      {
+        "tytul": "Analiza szachowa",
+        "opis": "Real-time Chess Assistant to narzędzie w Pythonie, które zapewnia analizę partii na Chess.com w czasie rzeczywistym, integrując Selenium do scrapowania ruchów z silnikiem szachowym Stockfish. Aplikacja przetwarza stan gry w oddzielnych wątkach, tłumaczy notację szachową na język naturalny i oferuje tryb \"tajny\" z ukrywaniem wyników w losowych symbolach dla zachowania dyskrecji.",
+        "url": "https://github.com/kucharek47/Analiza_Szachowa",
+        "path": "img/chess.png"
+      },
+      {
+        "tytul": "Transkrypcja",
+        "opis": "Transkrypcja to skrypt w języku Python, który automatyzuje proces zamiany mowy z plików wideo na tekst, wykorzystując API Google Speech Recognition. Narzędzie obsługuje przetwarzanie wsadowe oraz optymalizuje proces poprzez ekstrakcję audio i podział na segmenty czasowe przy użyciu bibliotek moviepy i pydub.",
+        "url": "https://github.com/kucharek47/Transkrypcja_Prosta",
+        "path": "img/transcription.png"
+      },
+      {
+        "tytul": "Angielski",
+        "opis": "Matura Vocab Booster to aplikacja edukacyjna w Pythonie, która automatycznie generuje bazy słownictwa bezpośrednio z arkuszy maturalnych CKE, wykorzystując BeautifulSoup4 i pdfplumber do ekstrakcji tekstu z plików PDF. System tłumaczy znalezione frazy, symulując interakcje z Google Translate za pomocą SeleniumBase, co pozwala ominąć koszty oficjalnych API. Całość zamknięta jest w interfejsie PyQt6, oferującym tryb nauki z elementami gamifikacji oraz asynchroniczne pobieranie danych w tle.",
+        "url": "https://github.com/kucharek47/Angielski",
+        "path": "img/angielski.png"
       },
       {
         "tytul": "Strona Kucharek47",
@@ -113,21 +197,21 @@
         "path": "img/bindy.png"
       },
       {
-        "tytul": "Analiza szachowa",
-        "opis": "Real-time Chess Assistant to narzędzie w Pythonie, które zapewnia analizę partii na Chess.com w czasie rzeczywistym, integrując Selenium do scrapowania ruchów z silnikiem szachowym Stockfish. Aplikacja przetwarza stan gry w oddzielnych wątkach, tłumaczy notację szachową na język naturalny i oferuje tryb \"stealth\" z obfuskacją wyników dla zachowania dyskrecji.",
-        "url": "https://github.com/kucharek47/Analiza_Szachowa",
-        "path": "img/chess.png"
-      },
-      {
         "tytul": "Serwer VOD",
-        "opis": "",
+        "opis": "Projekt stanowi najbardziej rozbudowaną aplikację, jaką stworzyłem w języku ^Python^, i został zaprojektowany do zarządzania prywatnym domowym serwerem multimedialnym zawierającym filmy i seriale. System obsługuje standardowe funkcjonalności zaawansowanych serwerów multimedialnych, w tym obsługę ES3, integrację z przyciskami multimedialnymi, mechanizmy autoryzacji i blokady nieuprawnionych połączeń, wznawianie odtwarzania oraz oznaczanie obejrzanych materiałów. Aplikacja działa w modelu ^plug and play^ i automatyzuje większość procesów dzięki integracji z zewnętrznymi API. Na podstawie metadanych takich jak czas trwania materiałów oraz struktury sezonów i odcinków system precyzyjnie klasyfikuje treści, pobiera oceny użytkowników, opisy oraz szczegółowe informacje produkcyjne. Dodatkowo zaimplementowany został mechanizm automatycznego uruchamiania po restarcie, obejmujący połączenie z zasobami dyskowymi w środowisku Linux oraz automatyczne uzupełnianie i synchronizację bazy danych. Z uwagi na prywatne przeznaczenie i inne piorytetowe projekty, projekt jest tymczasowo niedostepny w najblizszym czasie oszczyszcze projekt i udostepnie go publicznie.",
         "url": "https://github.com/kucharek47/serwer_VOD",
         "path": "img/vod.png"
+      },
+      {
+        "tytul": "Sklep",
+        "opis": "Stworzyłem nowatorski pomysł, jakim było ^skanowanie produktów za pomocą telefonu w sklepie i płacenie przy wadze^. Rozwiązanie to nie tylko oszczędzało czas klientów w sklepie, ale dzięki wagom umieszczonym przy wejściu i wyjściu pozwalało również skrócić czas obsługi w kasie, ponieważ zakupy były już zeskanowane i zapakowane. Projekt jest działający chociaż w fazie podstawowej, choć obecnie nie mam dostępu do jego kompletnej wersji, ponieważ nie zdążyłem go odnaleźć z powodu innych priorytetowych projektów.",
+        "url": "https://github.com/kucharek47/sklep",
+        "path": "img/sklep.png"
       }
     ]
   },
   "Szkoły": {
-    "info": "",
+    "info": "Już od młodych lat, oprócz sportu, interesowałem się programowaniem. Zainspirowany grą Minecraft oraz wykorzystaniem komend, postanowiłem rozwijać się w tym kierunku. Szybko okazało się, że jest to dokładnie to, czego szukałem, i programowanie stało się moim głównym hobby, które rozwijam do dziś. Zarówno w szkole, jak i na studiach, przynajmniej na obecnym etapie, znacząco ^wyprzedzałem program nauczania^. W momencie gdy realizowaliśmy podstawy tworzenia stron internetowych (html,css,js), ja posiadałem już własny serwer VOD oraz wdrożone rozwiązania automatyzujące, takie jak system automatycznego podlewania ogrodu itp.",
     "path": "img/Szkoły.jpg",
     "projekty": [
       {
@@ -137,26 +221,32 @@
         "path": "img/podstawowa.png"
       },
       {
+        "tytul": "Społeczna Akademia Nauk w Łodzi (Zaocznie)",
+        "opis": "Obecnie studiuję ^Informatykę^ w trybie zaocznym, co pozwala mi łączyć zdobywanie wiedzy na studiach z samodzielnym doskonaleniem umiejętności programistycznych oraz zdobywaniem doświadczenia praktycznego w pracy zawodowej. Na studiach zdobywam solidne podstawy wiedzy technicznej i inżynierskiej, a wybrana specjalizacja ^Technologie Programowania^ umożliwia dalsze ukierunkowanie rozwoju w stronę projektowania i tworzenia zaawansowanego oprogramowania.",
+        "url": "https://san.edu.pl/lodz",
+        "path": "img/wyższa.jpg"
+      },
+      {
         "tytul": "Zespół Szkół Zawodowych im. Stanisława Staszica",
         "opis": "Ukończyłem kierunek Technik Informatyk, co potwierdziłem zdanym egzaminem maturalnym oraz uzyskaniem kompletu kwalifikacji zawodowych. Szkoła ta zapewniła mi solidne fundamenty techniczne w zakresie sprzętu, sieci komputerowych oraz podstaw inżynierii oprogramowania.",
         "url": "https://alestaszic.edu.pl/",
         "path": "img/średnia.jpg"
-      },
-      {
-        "tytul": "Społeczna Akademia Nauk w Łodzi",
-        "opis": "Aktualnie studiuję na kierunku Informatyka, gdzie zdobywam fundamenty wiedzy technicznej i inżynierskiej. Wybrałem specjalizację Technologie Programowania, którą będę realizować w dalszym toku nauki, aby w przyszłości ukierunkować swój rozwój na tworzenie zaawansowanego oprogramowania.",
-        "url": "https://san.edu.pl/lodz",
-        "path": "img/wyższa.jpg"
       }
     ]
   },
   "Linux i mikro systemy": {
-    "info": "Moje doswiadczenie z linuxem zaczelo sie w technikum informatycznym w ktorym oprocz tradycyjnych prac zrozumial co to jest linux i dlaczego jest tak poprulany, przez uznalem ze jest warty wiekszej ilosci czasu niz na studiach od czego czasu zrobilem gigantyczne podstepy i teraz juz poruszam sie po linux (terminal oczywscie) naturalnie i sfobodnie i rozumiem tez zadane dzialania tego",
+    "info": "Moje doświadczenie z ^Linuksem^ rozpoczęło się w technikum informatycznym, gdzie poza tradycyjnymi zadaniami zrozumiałem, czym jest Linux i dlaczego jest tak popularny; uznałem, że warto poświęcić mu więcej czasu niż przewidywał program nauczania, poczyniłem znaczne postępy i teraz poruszam się po ^Linuksie^ (w tym po ^terminalu^) naturalnie i swobodnie oraz rozumiem kluczowe mechanizmy jego działania.",
     "path": "img/linux.png",
     "projekty": [
       {
+        "tytul": "ESP32-WROOM-32D",
+        "opis": "To była moja pierwsza płytka uruchomieniowa obsługiwana przez ^MicroPython^. Stanowiła ona mój punkt wejścia w świat programowania mikrokontrolerów przy użyciu języka który już znałem. Dzięki temu projektowi mogłem połączyć moją wiedzę programistyczną z elementami fizycznymi i elektroniką.",
+        "url": "",
+        "path": "img/esp32.png"
+      },
+      {
         "tytul": "Debian Bookworm Orange pi 5 pro headless",
-        "opis": "Wszystkie moje serwery, zarówno publiczne jak i prywatne, oparłem na własnej, skrupulatnie przygotowanej konfiguracji systemu ^Linux^. To na niej spoczywa zarządzanie całym moim środowiskiem, od skryptów cyklicznych po automatykę ^inteligentnego domu^ opartą o usługi ^systemctl^.Ten konkretny projekt był jednak największym wyzwaniem inżynierskim z jakim się mierzyłem ze względu na nietypową architekturę sprzętową urządzenia. Moja walka zaczęła się od oficjalnego obrazu ^.iso^ producenta który okazał się uszkodzony. Po kilkunastu godzinach analizy i naprawiania plików systemowych udało mi się doprowadzić go do stanu używalności, niestety system wciąż był zbyt niestabilny i ulegał częstym awariom. Wtedy podjąłem decyzję o porzuceniu gotowca na rzecz instalacji czystego systemu ^Debian Bookworm^. To otworzyło nowy rozdział problemów gdyż sprzęt nie posiadał większości sterowników, głównym problemem był sterownik do dysków ^NVMe^ przez brak możliwości bootowania z USB. Musiałem wykorzystać dedykowany adapter ^NVMe^ i ręcznie integrować sterowniki z systemem. Ta długa i wyboista droga nauczyła mnie więcej o strukturze ^Linuxa^, zarządzaniu pamięcią masową i mechanice działania usług niż jakikolwiek podręcznik.",
+        "opis": "Wszystkie moje serwery, zarówno publiczne jak i prywatne, oparłem na własnej, skrupulatnie przygotowanej konfiguracji systemu ^Linux^. To na niej spoczywa zarządzanie całym moim środowiskiem, od skryptów cyklicznych po automatykę ^inteligentnego domu^ opartą o usługi ^systemd^.Ten konkretny projekt był jednak największym wyzwaniem inżynierskim z jakim się mierzyłem ze względu na nietypową architekturę sprzętową urządzenia. Moja walka zaczęła się od oficjalnego obrazu ^.iso^ producenta który okazał się uszkodzony. Po kilkunastu godzinach analizy i naprawiania plików systemowych udało mi się doprowadzić go do stanu używalności, niestety system wciąż był zbyt niestabilny i ulegał częstym awariom. Wtedy podjąłem decyzję o porzuceniu gotowca na rzecz instalacji czystego systemu ^Debian Bookworm^. To otworzyło nowy rozdział problemów gdyż sprzęt nie posiadał większości sterowników, głównym problemem był sterownik do dysków ^NVMe^ przez brak możliwości bootowania z USB. Musiałem wykorzystać dedykowany adapter ^NVMe^ i ręcznie integrować sterowniki z systemem. Ta długa i wyboista droga nauczyła mnie więcej o strukturze ^Linuxa^, zarządzaniu pamięcią masową i mechanice działania usług niż jakikolwiek podręcznik.",
         "url": "",
         "path": "img/Debian_OPI.png"
       },
@@ -167,12 +257,6 @@
         "path": "img/kali.png"
       },
       {
-        "tytul": "ESP32-WROOM-32D",
-        "opis": "To była moja pierwsza płytka uruchomieniowa obsługiwana przez ^MicroPython^. Stanowiła ona mój punkt wejścia w świat programowania mikrokontrolerów przy użyciu języka który już znałem. Dzięki temu projektowi mogłem połączyć moją wiedzę programistyczną z elementami fizycznymi i elektroniką.",
-        "url": "",
-        "path": "img/esp32.png"
-      },
-      {
         "tytul": "ESP32-S3",
         "opis": "Płytka na której pracuje teraz",
         "url": "",
@@ -181,208 +265,117 @@
     ]
   },
   "Bazy danych": {
-    "info": "",
+    "info": "Na co dzień najczęściej pracuję z danymi w formacie JSON, natomiast w większych projektach hobbystycznych stosuję ^SQLAlchemy^ jako warstwę ORM, co umożliwia mi praktyczną naukę oraz wykorzystanie języka SQL. Choć obszar baz danych nie jest jeszcze moją najmocniejszą stroną, posiadam ^ugruntowaną znajomość podstaw SQL^ i potrafię wykorzystywać je w projektach aplikacyjnych.",
     "path": "img/Bazy danych.png",
     "projekty": [
       {
+        "tytul": "Access",
+        "opis": "Jest to program, z którego korzystałem w technikum, jednak nie używałem go w późniejszym czasie. Znam ^podstawy Accessa^, natomiast przy realizacji projektów ^na razie^ potrzebuję wsparcia, aby rozwiązania były sensowne i poprawnie zaprojektowane.",
+        "url": "",
+        "path": "img/Access.webp"
+      },
+      {
         "tytul": "SQLAlchemy",
-        "opis": "",
+        "opis": "Jest to ^ORM^, który dobrze poznałem podczas realizacji większych projektów i który stanowi moje główne narzędzie do pracy z relacyjnymi bazami danych.",
         "url": "",
         "path": "img/sqlalchemy.jpg"
       },
       {
         "tytul": "SQLite",
-        "opis": "",
+        "opis": "Moja znajomość ^SQLite^ wykracza poza zakres programu nauczania. Choć nie jest to jeszcze obszar, w którym czuję się w pełni komfortowo, posiadam ^solidne podstawy^ umożliwiające realizację typowych zastosowań oraz pracę nad większymi projektami przy niewielkim wsparciu.",
         "url": "",
         "path": "img/SQLite.jpeg"
-      },
-      {
-        "tytul": "Access",
-        "opis": "",
-        "url": "",
-        "path": "img/Access.webp"
       }
     ]
   },
   "Micro-python": {
-    "info": "",
+    "info": "Tworzenie i projektowanie w ^MicroPython^ na mikrokontrolery to dla mnie fascynujące zajęcie. Moje projekty, poza tymi wykorzystywanymi w domu i pracy, mają charakter edukacyjno-hobbystyczny i służą głównie poznawaniu fizycznej i ręcznej konfiguracji urządzeń. Moja kolekcja ponad 30 zaawansowanych elementów pomiarowych i czujników (nie licząc setek rezystorów czy tranzystorów) pozwala na realizację poważnych projektów, a w najbliższym czasie planuję rozszerzyć je i zaangażować platformę ^OPi5Pro^.",
     "path": "img/Micro-python.webp",
     "projekty": [
       {
-        "tytul": "Podlewanie",
-        "opis": "",
-        "url": "",
-        "path": "img/podlewanie.png"
-      },
-      {
         "tytul": "Radar",
-        "opis": "",
+        "opis": "Projekt wykorzystuje ^silniczek pozycjonujący^ i ^ultradźwiękowy czujnik odległości^, tworząc prosty radar z zasięgiem do 2 metrów. Chociaż powstał w celach edukacyjno-hobbystycznych, pozwolił mi na praktyczne doświadczenie w integracji mechaniki i elektroniki oraz w programowaniu urządzeń sterowanych mikroprocesorowo.",
         "url": "",
         "path": "img/Radar.webp"
       },
       {
+        "tytul": "Podlewanie",
+        "opis": "Projekt ^Podlewanie^ wspiera moją szkółkę borówki amerykańskiej poprzez pełną automatyzację nawadniania, co pozwala oszczędzać czas i zwiększa precyzję podlewania. Obecnie pracuję nad rozszerzeniem systemu o ^czujniki wilgotności roślin^ oraz licznik przepływu wody; nowe moduły są w fazie testów i projektowania fizycznego, przygotowując projekt do pełnej automatyzacji.",
+        "url": "https://github.com/kucharek47/esp32_podlewanie",
+        "path": "img/podlewanie.png"
+      },
+      {
         "tytul": "Mierniki Wody",
-        "opis": "",
+        "opis": "^Mierniki Wody^ to rozszerzenie projektu ^Podlewanie^, w którym wprowadzono 8 czujników rozmieszczonych na dużej powierzchni szkółki. System pozwala precyzyjnie mierzyć wilgotność gleby i optymalizować nawodnienie roślin w sposób zautomatyzowany i skalowalny.",
         "url": "",
         "path": "img/Mierniki Wody.webp"
       }
     ]
   },
   "Praca": {
-    "info": "",
+    "info": "Choć moje dotychczasowe doświadczenie zawodowe w IT ma obecnie charakter dodatkowy z uwagi na zajmowanie się przeważnie rozwijaniem własnych działalnościami, moje kompetencje techniczne są efektem wieloletniego, świadomego i systematycznego rozwoju wynikającego z ^realnej pasji do programowania^. Jestem przekonany, że przy otrzymaniu pierwszej pełnoprawnej szansy zawodowej szybko udowodnię swoją wartość jako pracownik, dzięki ^bardzo dużej zdolności adaptacji^, umiejętności szybkiego uczenia się oraz skutecznej metodzie zdobywania wiedzy, którą jako samouk konsekwentnie rozwijałem, testowałem i udoskonalałem w praktyce projektowej.",
     "path": "img/Praca.webp",
     "projekty": [
       {
+        "tytul": "Sprzadwca na allegro",
+        "opis": "W 2024 roku, dzięki autorskiemu ^skryptowi^, który pierwotnie służył mi do monitorowania najkorzystniejszych cen, szybko zorientowałem się, że ceny produktów mogą różnić się nawet o 100%. Zauważyłem szansę na realizację modelu dropshippingowego, w którym skrypt znajdował najtańsze produkty, a dzięki dobremu opisowi i zdjęciom zwiększałem ich widoczność oraz pozycjonowanie. Projekt szybko przynosił realne zyski przy minimalnym nakładzie pracy. Niestety musiałem zamknąć sklep ze względu na zmianę polityki firmy.",
+        "url": "",
+        "path": "img/allegro.jpg"
+      },
+      {
         "tytul": "Zautomatyzwana szkółka borówki amerykanskiej",
-        "opis": "",
+        "opis": "Od dwóch lat zajmuję się produkcją sadzonek borówki amerykańskiej, w ramach której wprowadziłem automatyzację procesów takich jak podlewanie, nawożenie i monitorowanie parametrów roślin oraz zoptymalizowałem system sprzedaży. Dzięki temu projekt jest praktycznie ^samowystarczalny^ i wymaga minimalnego nadzoru.",
         "url": "",
         "path": "img/borówka amerykańska.jpg"
       },
       {
         "tytul": "Nauczyciel podstaw programowania",
-        "opis": "",
+        "opis": "Podczas nauki w klasie maturalnej prowadziłem płatne korepetycje, koncentrując się na efektywnym nauczaniu podstaw wymaganych do matury. Wysoka skuteczność moich metod sprawiła, że byłem polecany kolejnym uczniom, co pozwoliło mi ^przekazać wiedzę z Pythona^ 6 osobom.",
         "url": "",
         "path": "img/Nauczyciel podstaw programowania.png"
       },
       {
-        "tytul": "Gastronomia",
-        "opis": "",
-        "url": "",
-        "path": "img/gastronomia.webp"
-      },
-      {
         "tytul": "Wystawca roślin ozdobnych i owocujacych",
-        "opis": "",
-        "url": "",
+        "opis": "Od 15 roku życia uczestniczyłem w życiu firmy wujka, zajmujac się sprzedaży roślin ozdobnych i owocujących na największych giełdach krajowych, początkowo jako wystawca na lokalnych rynkach, a następnie rozwijał działalność online przez stronę firmową. Z czasem stał się jednym z głównych ^hurtowników i dostawców^ dla centrów handlowych w regionie, zdobywając doświadczenie w logistyce, zarządzaniu sprzedażą i relacjach biznesowych.",
+        "url": "https://lilietulipany.pl/",
         "path": "img/Wystawca roślin ozdobnych i owocujacych.jpg"
       },
       {
-        "tytul": "Sprzadwca na allegro",
-        "opis": "",
+        "tytul": "Gastronomia",
+        "opis": "Typowa praca dorobkowa",
         "url": "",
-        "path": "img/allegro.jpg"
+        "path": "img/gastronomia.webp"
       }
     ]
   },
   "Zainteresowania": {
-    "info": "",
+    "info": "Tutaj znajdują się moje ^zainteresowania^.",
     "path": "img/Zainteresowania.webp",
     "projekty": [
       {
+        "tytul": "Aktywność fizyczna",
+        "opis": "Dbam o kondycję po przez dynamiczną akrobatykę na trampolinach. Sport pozwala mi nie tylko rozwijać koordynację i wytrwałość, ale stanowi też idealną odskocznię od pracy umysłowej, zapewniając niezbędny balans i świeżość umysłu.",
+        "url": "",
+        "path": "img/aktywność fizyczna.png"
+      },
+      {
         "tytul": "Programowanie",
-        "opis": "Traktuję kodowanie jako pasję, która pozwala mi tworzyć praktyczne narzędzia – od zaawansowanej automatyzacji i aplikacji desktopowych po systemy IoT. Nieustannie poszukuję nowych wyzwań technologicznych, aby moje projekty nie tylko działały, ale w realny sposób ułatwiały codzienne zadania.",
+        "opis": "Traktuję kodowanie jako pasję, która pozwala mi tworzyć praktyczne narzędzia od zaawansowanej automatyzacji i aplikacji desktopowych po systemy IoT. Nieustannie poszukuję nowych wyzwań technologicznych, aby moje projekty nie tylko działały, ale w realny sposób ułatwiały codzienne zadania.",
         "url": "",
         "path": "img/programowanie.jpg"
       },
       {
         "tytul": "Strzelectwo sportowe",
-        "opis": "Uprawiam strzelectwo, które jest dla mnie doskonałym treningiem opanowania, cierpliwości i precyzji. Dyscyplina ta uczy mnie zachowania pełnego skupienia i „zimnej krwi” w kluczowych momentach, co bezpośrednio przekłada się na moją efektywność w pracy zawodowej.",
+        "opis": "Uprawiam strzelectwo, które jest dla mnie doskonałym treningiem opanowania, cierpliwości i precyzji. Dyscyplina ta uczy mnie zachowania pełnego skupienia i „zimnej krwi” w kluczowych momentach.",
         "url": "",
         "path": "img/strzelectwo.webp"
       },
       {
-        "tytul": "Aktywność fizyczna",
-        "opis": "Dbam o kondycję, łącząc dynamiczną akrobatykę na trampolinach z regularnym treningiem siłowym. Sport pozwala mi nie tylko rozwijać koordynację i wytrwałość, ale stanowi też idealną odskocznię od pracy umysłowej, zapewniając niezbędny balans i świeżość umysłu.",
+        "tytul": "Chemia",
+        "opis": "Od dawna pasjonuję się ^chemią^, szczególnie w aspekcie praktycznych eksperymentów i zrozumienia mechanizmów zachodzących reakcji. Regularnie analizuję procesy chemiczne, co pozwala mi rozwijać zarówno wiedzę teoretyczną, jak i praktyczne umiejętności laboratoryjne.",
         "url": "",
-        "path": "img/aktywność fizyczna.jpeg"
+        "path": "img/chemia.jpg"
       }
-    ]
-  },
-  "Oprogramowanie Biurowe i Narzędzia": {
-    "info": "Są to programy w których czuję się w pełni swobodnie i korzystam z nich regularnie od wielu lat. Posiadam praktyczną wiedzę pozwalającą na sprawne tworzenie ^dokumentacji^, ^prezentacji^ oraz ^arkuszy kalkulacyjnych^. Narzędzia te stanowią dla mnie podstawę do organizowania pracy i przedstawiania jej wyników w czytelnej formie.",
-    "path": "img/programy.png",
-    "projekty": [
-      {
-        "tytul": "Git",
-        "opis": "",
-        "url": "",
-        "path": "img/github.png"
-      },
-      {
-        "tytul": "Pycharm",
-        "opis": "",
-        "url": "",
-        "path": "img/Pycharm.jpeg"
-      },
-      {
-        "tytul": "Webstorm",
-        "opis": "",
-        "url": "",
-        "path": "img/Webstorm.jpeg"
-      },
-      {
-        "tytul": "Paint",
-        "opis": "XD",
-        "url": "",
-        "path": "img/paint.jpg"
-      },
-      {
-        "tytul": "VirualBox",
-        "opis": "",
-        "url": "",
-        "path": "img/VirualBox.jpg"
-      },
-      {
-        "tytul": "Thonny",
-        "opis": "",
-        "url": "",
-        "path": "img/Thonny.jpg"
-      },
-      {
-        "tytul": "Word",
-        "opis": "",
-        "url": "",
-        "path": "img/Word.webp"
-      },
-      {
-        "tytul": "Excel",
-        "opis": "",
-        "url": "",
-        "path": "img/Excel.webp"
-      },
-      {
-        "tytul": "Access",
-        "opis": "",
-        "url": "",
-        "path": "img/Access1.webp"
-      },
-      {
-        "tytul": "Visio",
-        "opis": "",
-        "url": "",
-        "path": "img/Visio.png"
-      },
-      {
-        "tytul": "Adobe Photoshop",
-        "opis": "",
-        "url": "",
-        "path": "img/Adobe Photoshop.webp"
-      },
-      {
-        "tytul": "Davinci",
-        "opis": "",
-        "url": "",
-        "path": "img/Davinci.webp"
-      },
-      {
-        "tytul": "AutoCAD",
-        "opis": "",
-        "url": "",
-        "path": "img/AutoCAD.jpeg"
-      },
-      {
-        "tytul": "CorelDraw",
-        "opis": "",
-        "url": "",
-        "path": "img/CorelDraw.png"
-      },
-      {
-        "tytul": "Orange (AI)",
-        "opis": "",
-        "url": "",
-        "path": "img/Orange (AI).jpg"
-      }
-
     ]
   }
 }

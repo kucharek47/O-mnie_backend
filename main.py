@@ -2,12 +2,11 @@ import json
 import os
 from flask import Flask, jsonify, render_template, send_from_directory
 from flask_cors import CORS
-
-dane_json = 'dane.json'
-
 app = Flask(__name__, static_folder='static', template_folder='templates')
 CORS(app)
 
+dane_json = 'dane.json'
+app.json.sort_keys = False
 
 @app.route('/api/dane', methods=['GET'])
 def get_dane():
@@ -21,6 +20,13 @@ def get_dane():
     except Exception as e:
         return jsonify({"error": f"Błąd serwera: {str(e)}"}), 500
 
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+@app.route('/<path:path>')
+def static_files(path):
+    return send_from_directory('static', path)
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(port=13004)
