@@ -107,7 +107,7 @@
       },
       {
         "tytul": "Gra Pytanie czy Wyzwanie +18",
-        "opis": "Projekt ten stanowi modernizację starej aplikacji pierwotnie napisanej w języku ^Python^. Sam pomysł odświeżenia oraz krótki czas na realizacji wynikały ze zbliżającej się imprezy sylwestrowej, na którą zostało mi zlecone stworzenie tego typu aplikacji. Ze względu na krótki termin główny nacisk położyłem na warstwę danych która stanowi serce systemu. Ze względu na specyfikę docelowej grupy odbiorców i charakter ^+18^ aplikacji sugeruję skupienie się na analizie rozwiązań inżynierskich oraz sposobie prezentacji danych, a nie na samej warstwie kontentowej, która pełni tu funkcję wyłącznie użytkową.",
+        "opis": "Projekt ten stanowi modernizację starej aplikacji pierwotnie napisanej w języku ^Python^. Sam pomysł odświeżenia oraz krótki czas na realizację wynikały ze zbliżającej się imprezy sylwestrowej, na którą zostało mi zlecone stworzenie tego typu aplikacji. Ze względu na krótki termin główny nacisk położyłem na warstwę danych która stanowi serce systemu. Ze względu na specyfikę docelowej grupy odbiorców i charakter ^+18^ aplikacji sugeruję skupienie się na analizie rozwiązań inżynierskich oraz sposobie prezentacji danych, a nie na samej warstwie kontentowej, która pełni tu funkcję wyłącznie użytkową.",
         "url": [
           {
             "Front": "https://github.com/kucharek47/GraPytaniaIWyzwaniaFront",
@@ -119,10 +119,11 @@
       },
       {
         "tytul": "5D DIY Diamond Painting Converter",
-        "opis": "Jest to dedykowane narzędzie desktopowe stworzone z myślą o konkretnym użytkownika. System realizuje zadania z zakresu ^przetwarzania obrazu^ konwertując pliki graficzne na precyzyjne schematy wykonawcze ^DIY^. Obecna wersja to stabilny prototyp który stanowi solidną bazę architektoniczną pod przyszłą rozbudowę o bardziej zaawansowane algorytmy (tworzenie schematu na podstawie nie tylko koloru posiadanych elementów ale też ich ilości) i nowy wygląd wraz zrobienie wersji webowej",
+        "opis": "Jest to dedykowane narzędzie desktopowe stworzone z myślą o konkretnym użytkowniku. System realizuje zadania z zakresu ^przetwarzania obrazu^ konwertując pliki graficzne na precyzyjne schematy wykonawcze ^DIY^. Obecna wersja to stabilny prototyp, który stanowi solidną bazę architektoniczną pod przyszłą rozbudowę o bardziej zaawansowane algorytmy (tworzenie schematu na podstawie nie tylko koloru posiadanych elementów, ale też ich ilości), nowy wygląd oraz zrobienie wersji webowej",
         "url": {
           "Front": "https://github.com/kucharek47/FrontKonwerterObrazkow5D-DIY",
-          "Backend": "https://github.com/kucharek47/Konwerter_obrazkow_5D_DIY"
+          "Backend": "https://github.com/kucharek47/Konwerter_obrazkow_5D_DIY",
+          "Efekt": "https://DIY.kucharek47.pl"
         },
         "path": "img/diamond.png"
       },
@@ -156,7 +157,7 @@
       },
       {
         "tytul": "Video Intro Remover",
-        "opis": "Video Intro Remover to aplikacja desktopowa napisana w Pythonie i PyQt6, która automatyzuje usuwanie czołówek z plików wideo, wykorzystując wizję komputerową (OpenCV) do inteligentnego rozpoznawania fragmentów zamiast sztywnych reguł czasowych. Narzędzie oferuje wysoką wydajność dzięki akceleracji sprzętowej FFmpeg (NVENC) oraz umożliwia precyzyjne jak i przyspieszenie cv2 kiedy porowywaniu obrazkow o podobnej jasnosc, wsadowe przetwarzanie całych katalogów filmów.",
+        "opis": "Video Intro Remover to aplikacja desktopowa napisana w Pythonie i PyQt6, która automatyzuje usuwanie czołówek z plików wideo, wykorzystując wizję komputerową (OpenCV) do inteligentnego rozpoznawania fragmentów zamiast sztywnych reguł czasowych. Narzędzie oferuje wysoką wydajność dzięki akceleracji sprzętowej FFmpeg (NVENC) oraz umożliwia precyzyjne jak i przyspieszone szukanie za pomoca cv2, dzieki porówywaniu jasności obrazów, wsadowe przetwarzanie całych katalogów filmów.",
         "url": ["https://github.com/kucharek47/Usuwanie_czolowek"],
         "path": "img/usuwanie_czolowki.png"
       },
@@ -180,7 +181,7 @@
       },
       {
         "tytul": "Strona Kucharek47",
-        "opis": "Strona Kucharek47 to rozwojowy projekt portfolio typu SPA, łączący wydajność backendu Flask z nowoczesnym frontendem w Angular v21 i Taiga UI. Aplikacja implementuje unikalną koncepcję interaktywnej narracji, w której \"fałszywa\" strona ustępuje właściwej treści poprzez zaawansowane animacje 3D (efekt domina) i haptykę wizualną, oparte na SCSS i natywnym JavaScript. Projekt demonstruje nowoczesne podejście do architektury hybrydowej oraz optymalizacji złożonych efektów graficznych.",
+        "opis": "Strona Kucharek47 to rozwojowy projekt portfolio typu SPA, łączący wydajność backendu Flask z nowoczesnym frontendem w Angular v21 i Taiga UI. Aplikacja w której zastosowano ^efekt fałszywej^ strony którą po interakcji ukazuje właściwe treści poprzez zaawansowane animacje 3D (efekt domina). Projekt demonstruje nowoczesne podejście do architektury hybrydowej oraz optymalizacji złożonych efektów graficznych.",
         "url": "https://github.com/kucharek47/strona_kucharek47pl_flask",
         "path": "img/strona.png"
       },
