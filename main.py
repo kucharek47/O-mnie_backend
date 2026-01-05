@@ -2,11 +2,11 @@ import json
 import os
 from flask import Flask, jsonify, render_template, send_from_directory
 from flask_cors import CORS
-
-dane_json = 'dane.json'
-
 app = Flask(__name__, static_folder='static', template_folder='templates')
 CORS(app)
+
+dane_json = 'dane.json'
+app.json.sort_keys = False
 
 @app.route('/api/dane', methods=['GET'])
 def get_dane():
