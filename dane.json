@@ -337,13 +337,13 @@
       },
       {
         "tytul": "Wystawca roślin ozdobnych i owocujacych",
-        "opis": "Od 15 roku życia uczestniczyłem w życiu firmy wujka, zajmujac się sprzedaży roślin ozdobnych i owocujących na największych giełdach krajowych, początkowo jako wystawca na lokalnych rynkach, a następnie rozwijał działalność online przez stronę firmową. Z czasem stał się jednym z głównych ^hurtowników i dostawców^ dla centrów handlowych w regionie, zdobywając doświadczenie w logistyce, zarządzaniu sprzedażą i relacjach biznesowych.",
+        "opis": "Od 15 roku życia uczestniczyłem w życiu firmy wujka, zajmujacą się sprzedażą roślin ozdobnych i owocujących na największych giełdach krajowych, zaczynając jako wystawca na lokalnych rynkach, a następnie rozwijał działalność online przez stronę firmową. Z czasem stał się jednym z głównych ^hurtowników i dostawców^ dla centrów handlowych w regionie, zdobywając doświadczenie w logistyce, zarządzaniu sprzedażą i relacjach biznesowych.",
         "url": "https://lilietulipany.pl/",
         "path": "img/Wystawca roślin ozdobnych i owocujacych.jpg"
       },
       {
         "tytul": "Gastronomia",
-        "opis": "Typowa praca dorobkowa",
+        "opis": "Kelnerowanie jako typowa praca zarobkowa",
         "url": "",
         "path": "img/gastronomia.webp"
       }
@@ -353,12 +353,6 @@
     "info": "Tutaj znajdują się moje ^zainteresowania^.",
     "path": "img/Zainteresowania.webp",
     "projekty": [
-      {
-        "tytul": "Aktywność fizyczna",
-        "opis": "Dbam o kondycję po przez dynamiczną akrobatykę na trampolinach. Sport pozwala mi nie tylko rozwijać koordynację i wytrwałość, ale stanowi też idealną odskocznię od pracy umysłowej, zapewniając niezbędny balans i świeżość umysłu.",
-        "url": "",
-        "path": "img/aktywność fizyczna.png"
-      },
       {
         "tytul": "Programowanie",
         "opis": "Traktuję kodowanie jako pasję, która pozwala mi tworzyć praktyczne narzędzia od zaawansowanej automatyzacji i aplikacji desktopowych po systemy IoT. Nieustannie poszukuję nowych wyzwań technologicznych, aby moje projekty nie tylko działały, ale w realny sposób ułatwiały codzienne zadania.",
@@ -376,6 +370,12 @@
         "opis": "Od dawna pasjonuję się ^chemią^, szczególnie w aspekcie praktycznych eksperymentów i zrozumienia mechanizmów zachodzących reakcji. Regularnie analizuję procesy chemiczne, co pozwala mi rozwijać zarówno wiedzę teoretyczną, jak i praktyczne umiejętności laboratoryjne.",
         "url": "",
         "path": "img/chemia.jpg"
+      },
+      {
+        "tytul": "Aktywność fizyczna",
+        "opis": "Dbam o kondycję po przez dynamiczną akrobatykę na trampolinach. Sport pozwala mi nie tylko rozwijać koordynację i wytrwałość, ale stanowi też idealną odskocznię od pracy umysłowej, zapewniając niezbędny balans i świeżość umysłu.",
+        "url": "",
+        "path": "img/aktywność fizyczna.png"
       }
     ]
   }
