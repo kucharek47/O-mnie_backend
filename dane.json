@@ -84,7 +84,7 @@
     ]
   },
   "Angular": {
-    "info": "Budując na solidnych fundamentach wieloletniej praktyki z ^HTML^, ^CSS^ i ^JavaScript^, ostatnie pół roku poświęciłem niemal w całości na intensywną naukę frameworka ^Angular^. Nadrabiam ten czas wielkim zapałem i ciężką pracą której efektem jest solidne zrozumienie ^struktury^, ^możliwości^, ^mechaniki działania^ i oczywiście praktyka. Samo zainteresowanie ^Angularem^ wywodzi się od ^TypeScript^. Na studiach zrozumiałem, że czysty ^JavaScript^ ma swoje ograniczenia a z uwagi na ^mocne typowanie^ którego domyślnie nie ma w ^Pythonie^ uznałem, że będzie to dobre uzupełnienie moich umiejętności. W dobie gdzie większość stron przechodzi na ^SPA^ uważam, że ^Angular^ jest nie tylko świetnym rozwiązaniem webowym ale też przyszłością samych aplikacji desktopowych.",    ",path": "img/angular.jpg",
+    "info": "Bazując na solidnych fundamentach wieloletniej praktyki z ^HTML^, ^CSS^ i ^JavaScript^, ostatnie pół roku poświęciłem niemal w całości na intensywną naukę frameworka ^Angular^. Nadrabiam ten czas wielkim zapałem i ciężką pracą, której efektem jest solidne zrozumienie ^struktury^, ^możliwości^, ^mechaniki działania^ i oczywiście praktyka. Samo zainteresowanie ^Angularem^ wywodzi się od ^TypeScript^. Na studiach zrozumiałem, że czysty ^JavaScript^ ma swoje ograniczenia, a z uwagi na ^mocne typowanie^, którego domyślnie nie ma w ^Pythonie^ uznałem, że ^Angular^ wraz z ^TypeSrcipt^ bedą dobrym uzupełnieniem moich umiejętności. W dobie gdzie większość stron przechodzi na ^SPA^ uważam, że ^Angular^ jest nie tylko świetnym rozwiązaniem webowym, ale też przyszłością samych aplikacji desktopowych.",
     "path": "img/angular.jpg",
     "projekty": [
       {
@@ -97,7 +97,7 @@
       },
       {
         "tytul": "Pizzeria",
-        "opis": "Jest to mój największy dotychczasowy projekt zrealizowany w ^Angularze^. Pomimo że tematyka wydaje się dość prosta to zaimplementowałem tu kilka ciekawych rozwiązań takich jak ^interaktywne układanie własnej pizzy^. Był to mój pierwszy projekt na którym uczyłem się praktyki. Choć z obecną wiedzą zmieniłbym wiele rzeczy takich jak zastosowanie ^SCSS^ czy lepszy podział zadań na osobne ^komponenty^ i ^serwisy^ jak i mniej hardcoded to uważam, że projekt ten doskonale pokazuje moje zaznajomienie się z ^Angularem^ oraz chęć ciągłego pogłębiania wiedzy w tym zakresie.",
+        "opis": "Jest to mój największy dotychczasowy projekt zrealizowany w ^Angularze^. Pomimo że tematyka wydaje się dość prosta to zaimplementowałem tu kilka ciekawych rozwiązań takich jak ^interaktywne układanie własnej pizzy^. Był to mój pierwszy projekt, na którym uczyłem się praktyki. Choć z obecną wiedzą zmieniłbym wiele rzeczy takich jak zastosowanie ^SCSS^ czy lepszy podział zadań na osobne ^komponenty^ i ^serwisy^ jak i mniej hardcoded to uważam, że projekt ten doskonale pokazuje moje zaznajomienie się z ^Angularem^ oraz chęć ciągłego pogłębiania wiedzy w tym zakresie.",
         "url": {
           "Front": "https://github.com/kucharek47/Pizzeria_Angular",
           "Backend": "https://github.com/kucharek47/API_pizzeria",
@@ -107,7 +107,7 @@
       },
       {
         "tytul": "Gra Pytanie czy Wyzwanie +18",
-        "opis": "Projekt ten stanowi modernizację rozwiązania pierwotnie napisanego w języku ^Python^. Sam pomysł oraz krótki czas realizacji wynikają ze zbliżającej się imprezy sylwestrowej na którą zostałem poproszony o stworzenie takiej aplikacji. Ze względu na krótki termin główny nacisk położyłem na warstwę danych która stanowi serce systemu. Ze względu na specyfikę docelowej grupy odbiorców i charakter ^+18^ aplikacji sugeruję skupienie się na analizie rozwiązań inżynierskich oraz sposobie prezentacji danych a nie na samej warstwie kontentowej która pełni tu funkcję wyłącznie użytkową.",
+        "opis": "Projekt ten stanowi modernizację starej aplikacji pierwotnie napisanej w języku ^Python^. Sam pomysł odświeżenia oraz krótki czas na realizacji wynikały ze zbliżającej się imprezy sylwestrowej, na którą zostało mi zlecone stworzenie tego typu aplikacji. Ze względu na krótki termin główny nacisk położyłem na warstwę danych która stanowi serce systemu. Ze względu na specyfikę docelowej grupy odbiorców i charakter ^+18^ aplikacji sugeruję skupienie się na analizie rozwiązań inżynierskich oraz sposobie prezentacji danych, a nie na samej warstwie kontentowej, która pełni tu funkcję wyłącznie użytkową.",
         "url": [
           {
             "Front": "https://github.com/kucharek47/GraPytaniaIWyzwaniaFront",
