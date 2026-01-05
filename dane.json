@@ -144,12 +144,6 @@
     "path": "img/Python.webp",
     "projekty": [
       {
-        "tytul": "Podlewanie",
-        "opis": "ESP32 Irrigation Controller to autonomiczny system nawadniania oparty na MicroPythonie, który działa jako niezależny Access Point z interfejsem WWW do zarządzania harmonogramem zadań. Projekt wykorzystuje wielowątkowość (_thread) do równoległego sterowania przekaźnikami i obsługi serwera HTTP, zapewniając trwałość danych poprzez zapis konfiguracji w pliku JSON. Rozwiązanie demonstruje niskopoziomową implementację obsługi gniazd sieciowych oraz synchronizację czasu RTC na mikrokontrolerze.",
-        "url": "https://github.com/kucharek47/esp32_podlewanie",
-        "path": "img/podlewanie.png"
-      },
-      {
         "tytul": "Pobieranie filmów i seriali",
         "opis": "Automated VOD Downloader to zaawansowany system ETL w Pythonie, który automatyzuje proces pozyskiwania multimediów z serwisów VOD, łącząc Selenium do ekstrakcji linków z dynamicznych stron SPA oraz JDownloader 2 API wraz z autorskim skryptem (nie dodany) do obsługi transferu plików. Aplikacja wykorzystuje architekturę hybrydową z wielowątkowością i wstrzykiwaniem JavaScript do omijania zabezpieczeń anty-botowych, a także implementuje autorskie wyboru źródeł oraz mechanizmy zapewniające stabilność działania.",
         "url": "https://github.com/kucharek47/Pobieranie-filmow-i-seriali",
@@ -199,39 +193,21 @@
       },
       {
         "tytul": "Serwer VOD",
-        "opis": "Projekt stanowi najbardziej rozbudowaną aplikację, jaką stworzyłem w języku ^Python^, i został zaprojektowany do zarządzania prywatnym domowym serwerem multimedialnym zawierającym filmy i seriale. System obsługuje standardowe funkcjonalności zaawansowanych serwerów multimedialnych, w tym obsługę ES3, integrację z przyciskami multimedialnymi, mechanizmy autoryzacji i blokady nieuprawnionych połączeń, wznawianie odtwarzania oraz oznaczanie obejrzanych materiałów. Aplikacja działa w modelu ^plug and play^ i automatyzuje większość procesów dzięki integracji z zewnętrznymi API. Na podstawie metadanych takich jak czas trwania materiałów oraz struktury sezonów i odcinków system precyzyjnie klasyfikuje treści, pobiera oceny użytkowników, opisy oraz szczegółowe informacje produkcyjne. Dodatkowo zaimplementowany został mechanizm automatycznego uruchamiania po restarcie, obejmujący połączenie z zasobami dyskowymi w środowisku Linux oraz automatyczne uzupełnianie i synchronizację bazy danych. Z uwagi na prywatne przeznaczenie i inne piorytetowe projekty, projekt jest tymczasowo niedostepny w najblizszym czasie oszczyszcze projekt i udostepnie go publicznie.",
+        "opis": "Projekt stanowi najbardziej rozbudowaną aplikację, jaką stworzyłem w języku ^Python^, i został zaprojektowany do zarządzania prywatnym domowym serwerem multimedialnym zawierającym filmy i seriale. System obsługuje standardowe funkcjonalności zaawansowanych serwerów multimedialnych, w tym obsługę ES3, integrację z przyciskami multimedialnymi, mechanizmy autoryzacji i blokady nieuprawnionych połączeń, wznawianie odtwarzania oraz oznaczanie obejrzanych materiałów. Aplikacja działa w modelu ^plug and play^ i automatyzuje większość procesów dzięki integracji z zewnętrznymi API. Na podstawie metadanych takich jak czas trwania materiałów oraz struktury sezonów i odcinków system precyzyjnie klasyfikuje treści, pobiera oceny użytkowników, opisy oraz szczegółowe informacje produkcyjne. Dodatkowo zaimplementowany został mechanizm automatycznego uruchamiania po restarcie, obejmujący połączenie z zasobami dyskowymi w środowisku Linux oraz automatyczne uzupełnianie i synchronizację bazy danych. Z uwagi na prywatne przeznaczenie i inne piorytetowe projekty, projekt ten jest tymczasowo niedostepny, w najbliższym czasie oszczyszczę go i udostepnię publicznie.",
         "url": "https://github.com/kucharek47/serwer_VOD",
         "path": "img/vod.png"
       },
       {
         "tytul": "Sklep",
-        "opis": "Stworzyłem nowatorski pomysł, jakim było ^skanowanie produktów za pomocą telefonu w sklepie i płacenie przy wadze^. Rozwiązanie to nie tylko oszczędzało czas klientów w sklepie, ale dzięki wagom umieszczonym przy wejściu i wyjściu pozwalało również skrócić czas obsługi w kasie, ponieważ zakupy były już zeskanowane i zapakowane. Projekt jest działający chociaż w fazie podstawowej, choć obecnie nie mam dostępu do jego kompletnej wersji, ponieważ nie zdążyłem go odnaleźć z powodu innych priorytetowych projektów.",
+        "opis": "Stworzyłem nowatorski (w tamtym czasie) pomysł, jakim było ^skanowanie za pomocą telefonu produktów w sklepie i płacenie przy wyjściu z wagą^. Rozwiązanie to nie tylko oszczędzało czas klientów w sklepie, ale dzięki wagom umieszczonym przy wejściu i wyjściu pozwalało również skrócić czas obsługi w kasie, ponieważ zakupy były już zeskanowane i zapakowane. Projekt jest działający, chociaż w fazie podstawowej. Obecnie nie mam dostępu do jego kompletnej wersji, ponieważ nie zdążyłem go odnaleźć z powodu innych priorytetowych projektów.",
         "url": "https://github.com/kucharek47/sklep",
         "path": "img/sklep.png"
-      }
-    ]
-  },
-  "Szkoły": {
-    "info": "Już od młodych lat, oprócz sportu, interesowałem się programowaniem. Zainspirowany grą Minecraft oraz wykorzystaniem komend, postanowiłem rozwijać się w tym kierunku. Szybko okazało się, że jest to dokładnie to, czego szukałem, i programowanie stało się moim głównym hobby, które rozwijam do dziś. Zarówno w szkole, jak i na studiach, przynajmniej na obecnym etapie, znacząco ^wyprzedzałem program nauczania^. W momencie gdy realizowaliśmy podstawy tworzenia stron internetowych (html,css,js), ja posiadałem już własny serwer VOD oraz wdrożone rozwiązania automatyzujące, takie jak system automatycznego podlewania ogrodu itp.",
-    "path": "img/Szkoły.jpg",
-    "projekty": [
-      {
-        "tytul": "Sportowa Szkoła Podstawowa nr 3 im. Józefa Jaworskiego w Aleksandrowie Łódzkim",
-        "opis": "W trakcie nauki w tej szkole z powodzeniem łączyłem obowiązki edukacyjne z pasją do sportu, co zaowocowało zdobyciem licznych tytułów i wyróżnień. To właśnie wtedy wyrobiłem w sobie nawyk dyscypliny oraz ducha zdrowej rywalizacji, które dzisiaj pomagają mi w skutecznym realizowaniu celów zawodowych.",
-        "url": "https://szkolasport.pl",
-        "path": "img/podstawowa.png"
       },
       {
-        "tytul": "Społeczna Akademia Nauk w Łodzi (Zaocznie)",
-        "opis": "Obecnie studiuję ^Informatykę^ w trybie zaocznym, co pozwala mi łączyć zdobywanie wiedzy na studiach z samodzielnym doskonaleniem umiejętności programistycznych oraz zdobywaniem doświadczenia praktycznego w pracy zawodowej. Na studiach zdobywam solidne podstawy wiedzy technicznej i inżynierskiej, a wybrana specjalizacja ^Technologie Programowania^ umożliwia dalsze ukierunkowanie rozwoju w stronę projektowania i tworzenia zaawansowanego oprogramowania.",
-        "url": "https://san.edu.pl/lodz",
-        "path": "img/wyższa.jpg"
-      },
-      {
-        "tytul": "Zespół Szkół Zawodowych im. Stanisława Staszica",
-        "opis": "Ukończyłem kierunek Technik Informatyk, co potwierdziłem zdanym egzaminem maturalnym oraz uzyskaniem kompletu kwalifikacji zawodowych. Szkoła ta zapewniła mi solidne fundamenty techniczne w zakresie sprzętu, sieci komputerowych oraz podstaw inżynierii oprogramowania.",
-        "url": "https://alestaszic.edu.pl/",
-        "path": "img/średnia.jpg"
+        "tytul": "Podlewanie",
+        "opis": "ESP32 Irrigation Controller to autonomiczny system nawadniania oparty na MicroPythonie, który działa jako niezależny Access Point z interfejsem WWW do zarządzania harmonogramem zadań. Projekt wykorzystuje wielowątkowość (_thread) do równoległego sterowania przekaźnikami i obsługi serwera HTTP, zapewniając trwałość danych poprzez zapis konfiguracji w pliku JSON. Rozwiązanie demonstruje niskopoziomową implementację obsługi gniazd sieciowych oraz synchronizację czasu RTC na mikrokontrolerze.",
+        "url": "https://github.com/kucharek47/esp32_podlewanie",
+        "path": "img/podlewanie.png"
       }
     ]
   },
@@ -310,6 +286,30 @@
         "opis": "^Mierniki Wody^ to rozszerzenie projektu ^Podlewanie^, w którym wprowadzono 8 czujników rozmieszczonych na dużej powierzchni szkółki. System pozwala precyzyjnie mierzyć wilgotność gleby i optymalizować nawodnienie roślin w sposób zautomatyzowany i skalowalny.",
         "url": "",
         "path": "img/Mierniki Wody.webp"
+      }
+    ]
+  },
+  "Szkoły": {
+    "info": "Już od młodych lat, oprócz sportu, interesowałem się programowaniem. Zainspirowany grą Minecraft oraz wykorzystaniem komend, postanowiłem rozwijać się w tym kierunku. Szybko okazało się, że jest to dokładnie to, czego szukałem, i programowanie stało się moim głównym hobby, które rozwijam do dziś. Zarówno w szkole, jak i na studiach, przynajmniej na obecnym etapie, znacząco ^wyprzedzałem program nauczania^. W momencie gdy realizowaliśmy podstawy tworzenia stron internetowych (html,css,js), ja posiadałem już własny serwer VOD oraz wdrożone rozwiązania automatyzujące, takie jak system automatycznego podlewania ogrodu itp.",
+    "path": "img/Szkoły.jpg",
+    "projekty": [
+      {
+        "tytul": "Społeczna Akademia Nauk w Łodzi (Zaocznie)",
+        "opis": "Obecnie studiuję ^Informatykę^ w trybie zaocznym, co pozwala mi łączyć zdobywanie wiedzy na studiach z samodzielnym doskonaleniem umiejętności programistycznych oraz zdobywaniem doświadczenia praktycznego w pracy zawodowej. Na studiach zdobywam solidne podstawy wiedzy technicznej i inżynierskiej, a wybrana specjalizacja ^Technologie Programowania^ umożliwia dalsze ukierunkowanie rozwoju w stronę projektowania i tworzenia zaawansowanego oprogramowania.",
+        "url": "https://san.edu.pl/lodz",
+        "path": "img/wyższa.jpg"
+      },
+      {
+        "tytul": "Zespół Szkół Zawodowych im. Stanisława Staszica",
+        "opis": "Ukończyłem kierunek Technik Informatyk, co potwierdziłem zdanym egzaminem maturalnym oraz uzyskaniem kompletu kwalifikacji zawodowych. Szkoła ta zapewniła mi solidne fundamenty techniczne w zakresie sprzętu, sieci komputerowych oraz podstaw inżynierii oprogramowania.",
+        "url": "https://alestaszic.edu.pl/",
+        "path": "img/średnia.jpg"
+      },
+      {
+        "tytul": "Sportowa Szkoła Podstawowa nr 3 im. Józefa Jaworskiego w Aleksandrowie Łódzkim",
+        "opis": "W trakcie nauki w tej szkole z powodzeniem łączyłem obowiązki edukacyjne z pasją do sportu, co zaowocowało zdobyciem licznych tytułów i wyróżnień. To właśnie wtedy wyrobiłem w sobie nawyk dyscypliny oraz ducha zdrowej rywalizacji, które dzisiaj pomagają mi w skutecznym realizowaniu celów zawodowych.",
+        "url": "https://szkolasport.pl",
+        "path": "img/podstawowa.png"
       }
     ]
   },
