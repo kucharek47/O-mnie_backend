@@ -29,4 +29,4 @@ def static_files(path):
     return send_from_directory('static', path)
 
 if __name__ == '__main__':
-    app.run(debug=True, port=13004)
+    app.run(port=13004)
