@@ -111,7 +111,7 @@
       },
       {
         "tytul": "5D DIY Diamond Painting Converter",
-        "opis": "Jest to dedykowane narzędzie desktopowe stworzone z myślą o konkretnym użytkowniku. System realizuje zadania z zakresu ^przetwarzania obrazu^ konwertując pliki graficzne na precyzyjne schematy wykonawcze ^DIY^. Obecna wersja to stabilny prototyp, który stanowi solidną bazę architektoniczną pod przyszłą rozbudowę o bardziej zaawansowane algorytmy (tworzenie schematu na podstawie nie tylko koloru posiadanych elementów, ale też ich ilości), nowy wygląd oraz zrobienie wersji webowej",
+        "opis": "Jest to dedykowane narzędzie desktopowe stworzone z myślą o konkretnym użytkowniku. System realizuje zadania z zakresu ^przetwarzania obrazu^ konwertując pliki graficzne na precyzyjne schematy wykonawcze ^DIY^. Obecna wersja to stabilny prototyp, który stanowi solidną bazę architektoniczną pod przyszłą rozbudowę o bardziej zaawansowane algorytmy (tworzenie schematu na podstawie nie tylko koloru posiadanych elementów, ale też ich ilości), nowy wygląd oraz zrobienie wersji webowej (projekt zaczął być rozwijany i korzysta z bazy danych z relacja lazy=\"dynamic\" co prywatnie stanowiło dla mnie kamień milowy z zrozumieniu dobrze baz",
         "url": {
           "Front-web": "https://github.com/kucharek47/FrontKonwerterObrazkow5D-DIY/tree/web",
           "Backend-web": "https://github.com/kucharek47/Konwerter_obrazkow_5D_DIY/tree/web",
@@ -250,13 +250,19 @@
       {
         "tytul": "SQLAlchemy",
         "opis": "Jest to ^ORM^, który dobrze poznałem podczas realizacji większych projektów i który stanowi moje główne narzędzie do pracy z relacyjnymi bazami danych.",
-        "url": "",
+        "url": {
+          "DIY": "https://github.com/kucharek47/Konwerter_obrazkow_5D_DIY/tree/web",
+          "Serwer VOD": "https://github.com/kucharek47/serwer_VOD"
+        },
         "path": "img/sqlalchemy.jpg"
       },
       {
         "tytul": "SQLite",
         "opis": "Moja znajomość ^SQLite^ wykracza poza zakres programu nauczania. Choć nie jest to jeszcze obszar, w którym czuję się w pełni komfortowo, posiadam ^solidne podstawy^ umożliwiające realizację typowych zastosowań oraz pracę nad większymi projektami przy niewielkim wsparciu.",
-        "url": "",
+        "url": {
+          "DIY": "https://github.com/kucharek47/Konwerter_obrazkow_5D_DIY/tree/web",
+          "Serwer VOD": "https://github.com/kucharek47/serwer_VOD"
+        },
         "path": "img/SQLite.jpeg"
       },
       {
