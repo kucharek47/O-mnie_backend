@@ -148,68 +148,106 @@
       {
         "tytul": "Pobieranie filmów i seriali",
         "opis": "Automated VOD Downloader to zaawansowany system ETL w Pythonie, który automatyzuje proces pozyskiwania multimediów z serwisów VOD, łącząc Selenium do ekstrakcji linków z dynamicznych stron SPA oraz JDownloader 2 API wraz z autorskim skryptem (nie dodany) do obsługi transferu plików. Aplikacja wykorzystuje architekturę hybrydową z wielowątkowością i wstrzykiwaniem JavaScript do omijania zabezpieczeń anty-botowych, a także implementuje autorskie wyboru źródeł oraz mechanizmy zapewniające stabilność działania.",
-        "url": "https://github.com/kucharek47/Pobieranie-filmow-i-seriali",
+        "url": {
+          "Pełny projekt": "https://github.com/kucharek47/Pobieranie-filmow-i-seriali"
+        },
         "path": "img/pobieranie filmów i seriali.png"
       },
       {
         "tytul": "Video Intro Remover",
         "opis": "Video Intro Remover to aplikacja desktopowa napisana w Pythonie i PyQt6, która automatyzuje usuwanie czołówek z plików wideo, wykorzystując wizję komputerową (OpenCV) do inteligentnego rozpoznawania fragmentów zamiast sztywnych reguł czasowych. Narzędzie oferuje wysoką wydajność dzięki akceleracji sprzętowej FFmpeg (NVENC) oraz umożliwia precyzyjne jak i przyspieszone szukanie za pomoca cv2, dzieki porówywaniu jasności obrazów, wsadowe przetwarzanie całych katalogów filmów.",
-        "url": ["https://github.com/kucharek47/Usuwanie_czolowek"],
+        "url": {
+          "Pełny projekt": "https://github.com/kucharek47/Usuwanie_czolowek"
+        },
         "path": "img/usuwanie_czolowki.png"
       },
       {
         "tytul": "Analiza szachowa",
         "opis": "Real-time Chess Assistant to narzędzie w Pythonie, które zapewnia analizę partii na Chess.com w czasie rzeczywistym, integrując Selenium do scrapowania ruchów z silnikiem szachowym Stockfish. Aplikacja przetwarza stan gry w oddzielnych wątkach, tłumaczy notację szachową na język naturalny i oferuje tryb \"tajny\" z ukrywaniem wyników w losowych symbolach dla zachowania dyskrecji.",
-        "url": "https://github.com/kucharek47/Analiza_Szachowa",
+        "url": {
+          "Pełny projekt": "https://github.com/kucharek47/Analiza_Szachowa"
+        },
         "path": "img/chess.png"
       },
       {
         "tytul": "Transkrypcja",
         "opis": "Transkrypcja to skrypt w języku Python, który automatyzuje proces zamiany mowy z plików wideo na tekst, wykorzystując API Google Speech Recognition. Narzędzie obsługuje przetwarzanie wsadowe oraz optymalizuje proces poprzez ekstrakcję audio i podział na segmenty czasowe przy użyciu bibliotek moviepy i pydub.",
-        "url": "https://github.com/kucharek47/Transkrypcja_Prosta",
+        "url": {
+          "Pełny projekt": "https://github.com/kucharek47/Transkrypcja_Prosta"
+        },
         "path": "img/transcription.png"
       },
       {
         "tytul": "Angielski",
         "opis": "Matura Vocab Booster to aplikacja edukacyjna w Pythonie, która automatycznie generuje bazy słownictwa bezpośrednio z arkuszy maturalnych CKE, wykorzystując BeautifulSoup4 i pdfplumber do ekstrakcji tekstu z plików PDF. System tłumaczy znalezione frazy, symulując interakcje z Google Translate za pomocą SeleniumBase, co pozwala ominąć koszty oficjalnych API. Całość zamknięta jest w interfejsie PyQt6, oferującym tryb nauki z elementami gamifikacji oraz asynchroniczne pobieranie danych w tle.",
-        "url": "https://github.com/kucharek47/Angielski",
+        "url": {
+          "Pełny projekt": "https://github.com/kucharek47/Angielski"
+        },
         "path": "img/angielski.png"
       },
       {
         "tytul": "Strona Kucharek47",
         "opis": "Strona Kucharek47 to rozwojowy projekt portfolio typu SPA, łączący wydajność backendu Flask z nowoczesnym frontendem w Angular v21 i Taiga UI. Aplikacja w której zastosowano ^efekt fałszywej^ strony którą po interakcji ukazuje właściwe treści poprzez zaawansowane animacje 3D (efekt domina). Projekt demonstruje nowoczesne podejście do architektury hybrydowej oraz optymalizacji złożonych efektów graficznych.",
-        "url": "https://github.com/kucharek47/strona_kucharek47pl_flask",
+        "url": {
+          "Pełny projekt": "https://github.com/kucharek47/strona_kucharek47pl_flask"
+        },
         "path": "img/strona.png"
       },
       {
         "tytul": "Wybieranie gier",
         "opis": "Game Library Manager to estetyczny launcher gier napisany w Pythonie i PyQt6, który automatyzuje katalogowanie biblioteki poprzez skanowanie systemu plików i integrację z REST API RAWG w celu pobierania metadanych. Aplikacja wyróżnia się nowoczesnym interfejsem z animacjami 3D (efekt odwracania kart) oraz wykorzystaniem wielowątkowości (QThread) do asynchronicznego pobierania i cache'owania multimediów, zapewniając płynność działania interfejsu.",
-        "url": "https://github.com/kucharek47/Wybieranie_gier",
+        "url": {
+          "Pełny projekt": "https://github.com/kucharek47/Wybieranie_gier"
+        },
         "path": "img/game library.png"
       },
       {
         "tytul": "Bindy",
         "opis": "Bindy Soundboard to narzędzie w Pythonie, łączące funkcje soundboardu z nakładką graficzną dla graczy, które umożliwia odtwarzanie dźwięków bezpośrednio na wejście mikrofonowe za pomocą kombinacji klawiszy numerycznych. Projekt wykorzystuje PyQt6 do wyświetlania transparentnego interfejsu oraz biblioteki PyAudio i OpenCV do obsługi wirtualnego audio i wizualnej detekcji zdarzeń w grze (np. licznik Spike w Valorant).",
-        "url": "https://github.com/kucharek47/Bindy",
+        "url": {
+          "Pełny projekt": "https://github.com/kucharek47/Bindy"
+        },
         "path": "img/bindy.png"
       },
       {
         "tytul": "Serwer VOD",
         "opis": "Projekt stanowi najbardziej rozbudowaną aplikację, jaką stworzyłem w języku ^Python^, i został zaprojektowany do zarządzania prywatnym domowym serwerem multimedialnym zawierającym filmy i seriale. System obsługuje standardowe funkcjonalności zaawansowanych serwerów multimedialnych, w tym obsługę ES3, integrację z przyciskami multimedialnymi, mechanizmy autoryzacji i blokady nieuprawnionych połączeń, wznawianie odtwarzania oraz oznaczanie obejrzanych materiałów. Aplikacja działa w modelu ^plug and play^ i automatyzuje większość procesów dzięki integracji z zewnętrznymi API. Na podstawie metadanych takich jak czas trwania materiałów oraz struktury sezonów i odcinków system precyzyjnie klasyfikuje treści, pobiera oceny użytkowników, opisy oraz szczegółowe informacje produkcyjne. Dodatkowo zaimplementowany został mechanizm automatycznego uruchamiania po restarcie, obejmujący połączenie z zasobami dyskowymi w środowisku Linux oraz automatyczne uzupełnianie i synchronizację bazy danych. Z uwagi na prywatne przeznaczenie i inne piorytetowe projekty, projekt ten jest tymczasowo niedostepny, w najbliższym czasie oszczyszczę go i udostepnię publicznie.",
-        "url": "https://github.com/kucharek47/serwer_VOD",
+        "url": {
+          "Pełny projekt": "https://github.com/kucharek47/serwer_VOD"
+        },
         "path": "img/vod.png"
       },
       {
         "tytul": "Sklep",
         "opis": "Stworzyłem nowatorski (w tamtym czasie) pomysł, jakim było ^skanowanie za pomocą telefonu produktów w sklepie i płacenie przy wyjściu z wagą^. Rozwiązanie to nie tylko oszczędzało czas klientów w sklepie, ale dzięki wagom umieszczonym przy wejściu i wyjściu pozwalało również skrócić czas obsługi w kasie, ponieważ zakupy były już zeskanowane i zapakowane. Projekt jest działający, chociaż w fazie podstawowej. Obecnie nie mam dostępu do jego kompletnej wersji, ponieważ nie zdążyłem go odnaleźć z powodu innych priorytetowych projektów.",
-        "url": "https://github.com/kucharek47/sklep",
+        "url": {
+          "Pełny projekt":"https://github.com/kucharek47/sklep"
+        },
         "path": "img/sklep.png"
       },
       {
         "tytul": "Podlewanie",
         "opis": "ESP32 Irrigation Controller to autonomiczny system nawadniania oparty na MicroPythonie, który działa jako niezależny Access Point z interfejsem WWW do zarządzania harmonogramem zadań. Projekt wykorzystuje wielowątkowość (_thread) do równoległego sterowania przekaźnikami i obsługi serwera HTTP, zapewniając trwałość danych poprzez zapis konfiguracji w pliku JSON. Rozwiązanie demonstruje niskopoziomową implementację obsługi gniazd sieciowych oraz synchronizację czasu RTC na mikrokontrolerze.",
-        "url": "https://github.com/kucharek47/esp32_podlewanie",
+        "url": {
+          "Pełny projekt": "https://github.com/kucharek47/esp32_podlewanie"
+        },
         "path": "img/podlewanie.png"
+      },
+      {
+        "tytul": "Backend",
+        "opis": "Z uwagi na wieloletnią znajomość języka Python, postanowiłem używać go jako backend we wszystkich moich projektach Angularowych. Znaczna większość z nich oparta jest na frameworku Flask z SQLAlchemy, a jeden wykorzystuje FastAPI. Mnogość tych realizacji pokazuje moje doświadczenie w tworzeniu projektów Fullstack oraz samych Backendów w Pythona.",
+        "url": {
+          "Podlewanie": "https://github.com/kucharek47/esp32_podlewanie",
+          "Serwer-VOD": "https://github.com/kucharek47/serwer_VOD",
+          "Fałszywa strona": "https://github.com/kucharek47/strona_kucharek47pl_flask",
+          "Sklep":"https://github.com/kucharek47/sklep",
+          "Backend-pizzeria":"https://github.com/kucharek47/API_pizzeria",
+          "Backend-GraPW": "https://github.com/kucharek47/GraWPytanieIWyzwania",
+          "Backend-DIY-web": "https://github.com/kucharek47/Konwerter_obrazkow_5D_DIY/tree/web",
+          "Backend-DIY-desktop": "https://github.com/kucharek47/Konwerter_obrazkow_5D_DIY/tree/desktop-exe",
+          "Backend-o-mnie": "https://github.com/kucharek47/O-mnie_backend",
+          "Backend-pamietnik-fastapi": "https://github.com/kucharek47/Pamietnik2/tree/master/backend-fastapi"
+        }
       }
     ]
   },
@@ -220,7 +258,12 @@
       {
         "tytul": "Debian Bookworm Orange pi 5 pro headless",
         "opis": "Wszystkie moje serwery, zarówno publiczne jak i prywatne, oparłem na własnej, skrupulatnie przygotowanej konfiguracji systemu ^Linux^. To na niej spoczywa zarządzanie całym moim środowiskiem, od skryptów cyklicznych po automatykę ^inteligentnego domu^ opartą o usługi ^systemd^.Ten konkretny projekt był jednak największym wyzwaniem inżynierskim z jakim się mierzyłem ze względu na nietypową architekturę sprzętową urządzenia. Moja walka zaczęła się od oficjalnego obrazu ^.iso^ producenta który okazał się uszkodzony. Po kilkunastu godzinach analizy i naprawiania plików systemowych udało mi się doprowadzić go do stanu używalności, niestety system wciąż był zbyt niestabilny i ulegał częstym awariom. Wtedy podjąłem decyzję o porzuceniu gotowca na rzecz instalacji czystego systemu ^Debian Bookworm^. To otworzyło nowy rozdział problemów gdyż sprzęt nie posiadał większości sterowników, głównym problemem był sterownik do dysków ^NVMe^ przez brak możliwości bootowania z USB. Musiałem wykorzystać dedykowany adapter ^NVMe^ i ręcznie integrować sterowniki z systemem. Ta długa i wyboista droga nauczyła mnie więcej o strukturze ^Linuxa^, zarządzaniu pamięcią masową i mechanice działania usług niż jakikolwiek podręcznik.",
-        "url": "",
+        "url": {
+          "O-mnie": "https://o-mnie.kucharek47.pl",
+          "DIY": "https://DIY.kucharek47.pl",
+          "Pizzeria": "https://pizzeria.kucharek47.pl",
+          "GraPW": "https://grapiw.kucharek47.pl"
+        },
         "path": "img/Debian_OPI.png"
       },
       {
