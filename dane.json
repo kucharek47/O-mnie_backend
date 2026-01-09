@@ -22,6 +22,17 @@
         "path": "img/Webstorm.jpeg"
       },
       {
+        "tytul": "Cloudflare",
+        "opis": "Posiadam praktyczne doświadczenie w pracy z Cloudflare, które wykorzystuję do bezpiecznego wystawiania własnych serwerów poprzez Cloudflare Tunnel oraz zarządzania subdomenami. Konfiguruję i administruję DNS, domenami oraz rozwiązaniami związanymi z pocztą elektroniczną.",
+        "url": {
+          "O-mnie": "https://o-mnie.kucharek47.pl",
+          "DIY": "https://DIY.kucharek47.pl",
+          "Pizzeria": "https://pizzeria.kucharek47.pl",
+          "GraPW": "https://grapiw.kucharek47.pl"
+        },
+        "path": "img/Cloudflare.jpg"
+      },
+      {
         "tytul": "VirualBox",
         "opis": "^VirtualBox^ stanowi dla mnie podstawowe środowisko do testów systemowych i eksperymentów z oprogramowaniem. Wykorzystuję je do bezpiecznej analizy systemów, sprawdzania zachowania podejrzanych aplikacji oraz testowania konfiguracji sprzętowych i systemowych w izolowanym środowisku, bez ryzyka dla głównego systemu.",
         "url": "",
