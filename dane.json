@@ -224,7 +224,7 @@
         "tytul": "Serwer VOD",
         "opis": "Projekt stanowi najbardziej rozbudowaną aplikację, jaką stworzyłem w języku ^Python^, i został zaprojektowany do zarządzania prywatnym domowym serwerem multimedialnym zawierającym filmy i seriale. System obsługuje standardowe funkcjonalności zaawansowanych serwerów multimedialnych, w tym obsługę ES3, integrację z przyciskami multimedialnymi, mechanizmy autoryzacji i blokady nieuprawnionych połączeń, wznawianie odtwarzania oraz oznaczanie obejrzanych materiałów. Aplikacja działa w modelu ^plug and play^ i automatyzuje większość procesów dzięki integracji z zewnętrznymi API. Na podstawie metadanych takich jak czas trwania materiałów oraz struktury sezonów i odcinków system precyzyjnie klasyfikuje treści, pobiera oceny użytkowników, opisy oraz szczegółowe informacje produkcyjne. Dodatkowo zaimplementowany został mechanizm automatycznego uruchamiania po restarcie, obejmujący połączenie z zasobami dyskowymi w środowisku Linux oraz automatyczne uzupełnianie i synchronizację bazy danych. Z uwagi na prywatne przeznaczenie i inne piorytetowe projekty, projekt ten jest tymczasowo niedostepny, w najbliższym czasie oszczyszczę go i udostepnię publicznie.",
         "url": {
-          "Pełny projekt": "https://github.com/kucharek47/serwer_VOD"
+          "Pełny projekt": "https://github.com/kucharek47/Serwer-VOD-demo"
         },
         "path": "img/vod.png"
       },
@@ -249,7 +249,7 @@
         "opis": "Z uwagi na wieloletnią znajomość języka Python, postanowiłem używać go jako backend we wszystkich moich projektach Angularowych. Znaczna większość z nich oparta jest na frameworku Flask z SQLAlchemy, a jeden wykorzystuje FastAPI. Mnogość tych realizacji pokazuje moje doświadczenie w tworzeniu projektów Fullstack oraz samych Backendów w Pythona.",
         "url": {
           "Podlewanie": "https://github.com/kucharek47/esp32_podlewanie",
-          "Serwer-VOD": "https://github.com/kucharek47/serwer_VOD",
+          "Serwer-VOD": "https://github.com/kucharek47/Serwer-VOD-demo",
           "Fałszywa strona": "https://github.com/kucharek47/strona_kucharek47pl_flask",
           "Sklep":"https://github.com/kucharek47/sklep",
           "Backend-pizzeria":"https://github.com/kucharek47/API_pizzeria",
@@ -306,7 +306,7 @@
         "opis": "Jest to ^ORM^, który dobrze poznałem podczas realizacji większych projektów i który stanowi moje główne narzędzie do pracy z relacyjnymi bazami danych.",
         "url": {
           "DIY": "https://github.com/kucharek47/Konwerter_obrazkow_5D_DIY/tree/web",
-          "Serwer VOD": "https://github.com/kucharek47/serwer_VOD"
+          "Serwer VOD": "https://github.com/kucharek47/Serwer-VOD-demo"
         },
         "path": "img/sqlalchemy.jpg"
       },
@@ -315,7 +315,7 @@
         "opis": "Moja znajomość ^SQLite^ wykracza poza zakres programu nauczania. Choć nie jest to jeszcze obszar, w którym czuję się w pełni komfortowo, posiadam ^solidne podstawy^ umożliwiające realizację typowych zastosowań oraz pracę nad większymi projektami przy niewielkim wsparciu.",
         "url": {
           "DIY": "https://github.com/kucharek47/Konwerter_obrazkow_5D_DIY/tree/web",
-          "Serwer VOD": "https://github.com/kucharek47/serwer_VOD"
+          "Serwer VOD": "https://github.com/kucharek47/Serwer-VOD-demo"
         },
         "path": "img/SQLite.jpeg"
       },
